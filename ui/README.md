@@ -1,0 +1,1 @@
+samvidaan_simplified
