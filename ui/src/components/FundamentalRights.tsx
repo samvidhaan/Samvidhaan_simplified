@@ -79,7 +79,7 @@ export default function FundamentalRights() {
 
             <div className="bg-gradient-to-r from-pink-50 to-orange-50 rounded-2xl p-6 mb-8">
               <p className="text-lg text-gray-700 leading-relaxed">
-                {/* TODO: Replace with actual content */}
+                 
                 Fundamental Rights are the basic human rights enshrined in the Constitution of India which are guaranteed to all citizens. They are applied without discrimination on the basis of race, religion, gender, etc. These rights are enforceable by the courts, subject to certain restrictions.
               </p>
             </div>
@@ -129,7 +129,7 @@ export default function FundamentalRights() {
 
           <div className="bg-gradient-to-r from-green-50 to-blue-50 rounded-2xl p-6 mb-8">
             <p className="text-lg text-gray-700 leading-relaxed">
-              {/* TODO: Replace with actual content */}
+               
               Fundamental Duties were added to the Constitution by the 42nd Amendment in 1976. These are moral obligations of all citizens to help promote a spirit of patriotism and to uphold the unity of India. Originally 10 in number, one more duty was added by the 86th Amendment in 2002.
             </p>
           </div>

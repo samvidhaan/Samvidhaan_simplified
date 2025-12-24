@@ -46,11 +46,11 @@ export default function NeedPage() {
 
           <div className="bg-gradient-to-r from-green-50 to-blue-50 rounded-2xl p-6 mb-8">
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-              {/* TODO: Replace with actual content */}
+               
               A Constitution is essential for any democratic country as it serves as the supreme law that governs the nation. It is the foundation upon which the entire legal and political system is built.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              {/* TODO: Replace with actual content */}
+               
               Without a Constitution, there would be no clear rules about how the government should function, how leaders should be chosen, or how citizens' rights should be protected. It prevents the misuse of power and ensures justice for all.
             </p>
           </div>
@@ -97,7 +97,7 @@ export default function NeedPage() {
             <div className="border-l-4 border-blue-500 pl-6 py-3 bg-blue-50 rounded-r-xl">
               <h4 className="font-bold text-gray-800 text-lg mb-2">Limits Government Power</h4>
               <p className="text-gray-600">
-                {/* TODO: Replace with actual content */}
+                 
                 The Constitution places checks on government power, preventing any single person or institution from becoming too powerful. It distributes power among different branches: Legislature, Executive, and Judiciary.
               </p>
             </div>
@@ -105,7 +105,7 @@ export default function NeedPage() {
             <div className="border-l-4 border-purple-500 pl-6 py-3 bg-purple-50 rounded-r-xl">
               <h4 className="font-bold text-gray-800 text-lg mb-2">Provides Stability</h4>
               <p className="text-gray-600">
-                {/* TODO: Replace with actual content */}
+                 
                 It ensures continuity and stability in governance. Even when governments change, the constitutional framework remains constant, providing predictability and order.
               </p>
             </div>
@@ -113,7 +113,7 @@ export default function NeedPage() {
             <div className="border-l-4 border-pink-500 pl-6 py-3 bg-pink-50 rounded-r-xl">
               <h4 className="font-bold text-gray-800 text-lg mb-2">Promotes Unity</h4>
               <p className="text-gray-600">
-                {/* TODO: Replace with actual content */}
+                 
                 Despite India's diversity in language, religion, and culture, the Constitution unites all citizens under one national identity with shared values and common goals.
               </p>
             </div>
@@ -121,7 +121,7 @@ export default function NeedPage() {
             <div className="border-l-4 border-orange-500 pl-6 py-3 bg-orange-50 rounded-r-xl">
               <h4 className="font-bold text-gray-800 text-lg mb-2">Enables Social Change</h4>
               <p className="text-gray-600">
-                {/* TODO: Replace with actual content */}
+                 
                 The Constitution provides mechanisms for social reform and progress. It can be amended to meet changing needs while maintaining core values of justice and equality.
               </p>
             </div>
@@ -129,7 +129,7 @@ export default function NeedPage() {
 
           <div className="mt-8 bg-gradient-to-r from-green-100 to-blue-100 rounded-2xl p-6">
             <p className="text-center text-gray-700 font-medium text-lg">
-              <span className="text-3xl">🇮🇳</span><br />
+              {/* <span className="text-3xl"></span><br /> */}
               The Constitution is not just a document—it's a living promise to every citizen that their rights will be protected and their voice will be heard.
             </p>
           </div>

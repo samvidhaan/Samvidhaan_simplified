@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "q1",
+    "question": "The Governor of a State is appointed by the President on the advice of the",
+    "options": [
+      "Prime Minister",
+      "Vice- President",
+      "Chief Minister",
+      "Chief Justice"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Governor is appointed by the President, but as per constitutional convention, this is done on the advice of the Union Cabinet headed by the Prime Minister."
+  },
+  {
+    "id": "q2",
+    "question": "The President gives his resignation to the",
+    "options": [
+      "Chief Justice",
+      "Parliament",
+      "Vice President",
+      "Prime Minister"
+    ],
+    "correct_answer": 2,
+    "explanation": "According to Article 56(1)(a), the President addresses the resignation letter to the Vice-President."
+  },
+  {
+    "id": "q3",
+    "question": "For what period does the Vice President of India hold office?",
+    "options": [
+      "5 years",
+      "Till the age of 65 years",
+      "6 years",
+      "2 Years"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Vice-President holds office for a term of five years from the date on which he enters upon his office."
+  },
+  {
+    "id": "q4",
+    "question": "Who among the following holds office during the pleasure of the President?",
+    "options": [
+      "Governor",
+      "Election Commissioner",
+      "Speaker of Lok Sabha",
+      "Prime Minister"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Governor of a State holds office during the pleasure of the President (Article 156)."
+  },
+  {
+    "id": "q5",
+    "question": "Which of the following is not true regarding the payment of the emoluments of the President?",
+    "options": [
+      "They can be reduced during a Financial Emergency.",
+      "They are shown separately in the budget.",
+      "They are charged on the Contigency Fund of India.",
+      "They do nol require any parliament sanction."
+    ],
+    "correct_answer": 2,
+    "explanation": "The emoluments of the President are charged on the Consolidated Fund of India, not the Contingency Fund."
+  },
+  {
+    "id": "q6",
+    "question": "The total number of members nominated by the President to the Lok Sabha and the Rajya Sabha is",
+    "options": [
+      "16",
+      "18",
+      "14",
+      "12"
+    ],
+    "correct_answer": 2,
+    "explanation": "The President nominates 12 members to Rajya Sabha and (previously) 2 members to Lok Sabha, totaling 14."
+  },
+  {
+    "id": "q7",
+    "question": "Which one of the following does not constitute the electoral college for electing the President of India?",
+    "options": [
+      "Elected members of Lok Sabha",
+      "Elected members of the Legislative Assembly of each state.",
+      "Elected members of the Legislative Council",
+      "Elected members of Rajya Sabha"
+    ],
+    "correct_answer": 2,
+    "explanation": "Members of Legislative Councils do not participate in the Presidential election; only elected members of Lok Sabha, Rajya Sabha, and Legislative Assemblies participate."
+  },
+  {
+    "id": "q8",
+    "question": "Council of Ministers in a Parliamentary type of Government can remain in office till it enjoys the support of the",
+    "options": [
+      "Majority of members of the Upper House of Parliament",
+      "Majority of the members of the Upper House of parliament",
+      "Minority of members of the Lower House",
+      "Majority of the members of the Lower House of Parliament"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Council of Ministers is collectively responsible to the Lok Sabha (Lower House) and remains in power as long as it enjoys majority support there."
+  },
+  {
+    "id": "q9",
+    "question": "Which of the following appointments is not made by the President of India?",
+    "options": [
+      "Chief of the Army",
+      "Speaker of the Lok Sabha",
+      "Chief Justice of India",
+      "Chief of the Air Force"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Speaker of the Lok Sabha is elected by the members of the Lok Sabha from amongst themselves, not appointed by the President."
+  },
+  {
+    "id": "q10",
+    "question": "Who appoints the Prime Minister of India?",
+    "options": [
+      "Lok Sabha",
+      "President",
+      "Parliament",
+      "Citizens of India"
+    ],
+    "correct_answer": 1,
+    "explanation": "Under Article 75, the Prime Minister is appointed by the President."
+  },
+  {
+    "id": "q11",
+    "question": "The first woman Governor of a state in free India was",
+    "options": [
+      "Mrs. Indira Gandhi",
+      "Mrs. Vijaya Laxmi Pandit",
+      "Mrs. Sarojini Naidu",
+      "Mrs. Sucheta Kripalani"
+    ],
+    "correct_answer": 2,
+    "explanation": "Sarojini Naidu was the first woman to become the Governor of an Indian state (Uttar Pradesh)."
+  },
+  {
+    "id": "q12",
+    "question": "Minimum age required to contest for Presidentship is",
+    "options": [
+      "23 years",
+      "21 years",
+      "35 years",
+      "30 years"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 58 specifies that a person must have completed the age of 35 years to be eligible for election as President."
+  },
+  {
+    "id": "q13",
+    "question": "The charge of impeachment against the President of India for his removal can be preferred by",
+    "options": [
+      "Both Houses of Parliament",
+      "Speaker of Lok Sabha and Chairman of Rajya Sabha",
+      "Rajya Sabha",
+      "Lok Sabha"
+    ],
+    "correct_answer": 0,
+    "explanation": "Impeachment proceedings can be initiated in either House of Parliament (Article 61)."
+  },
+  {
+    "id": "q14",
+    "question": "The Chief Minister of a Union Territory where such a set up exists, is appointed by the",
+    "options": [
+      "Lt. Governor",
+      "Majority party in Legislature",
+      "President",
+      "Prime Minister"
+    ],
+    "correct_answer": 2,
+    "explanation": "In Union Territories like Delhi, the Chief Minister is appointed by the President."
+  },
+  {
+    "id": "q15",
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mrs. Indira Gandhi",
+      "Dr. Rajendra Prasad",
+      "Mahatma Gandhi"
+    ],
+    "correct_answer": 0,
+    "explanation": "Jawaharlal Nehru served as the first Prime Minister of independent India from 1947 to 1964."
+  },
+  {
+    "id": "q16",
+    "question": "In case a President dies while in office, the vice President can act as President for a maximum period of",
+    "options": [
+      "1 years",
+      "3 months",
+      "6 months",
+      "2 years"
+    ],
+    "correct_answer": 2,
+    "explanation": "An election to fill a vacancy in the office of President occurring by reason of death must be held within six months."
+  },
+  {
+    "id": "q17",
+    "question": "The Union Council of Ministers consists of",
+    "options": [
+      "Cabinet Ministers, Minister of State and Deputy Ministers",
+      "Cabinet Ministers and Chief Ministers of the States",
+      "Prime Minister",
+      "Cabinet Ministers"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Council of Ministers is a three-tier body comprising Cabinet Ministers, Ministers of State, and Deputy Ministers."
+  },
+  {
+    "id": "q18",
+    "question": "Who administers the oath of office to the President of India before he enters upon the office?",
+    "options": [
+      "Chief Justice",
+      "Speaker",
+      "Vice President",
+      "Prime Minister"
+    ],
+    "correct_answer": 0,
+    "explanation": "The oath of office to the President is administered by the Chief Justice of India."
+  },
+  {
+    "id": "q19",
+    "question": "Who among the following enjoys the rank of a Cabinet Minister of the Indian Union?",
+    "options": [
+      "None of the Above",
+      "Deputy Chairman of the Planning Commission",
+      "Deputy Chairman, Rajya Sabha",
+      "Secretary to the Government of India"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Deputy Chairman of the Planning Commission (now NITI Aayog) traditionally holds the rank of a Cabinet Minister."
+  },
+  {
+    "id": "q20",
+    "question": "A person who is not a member of Parliament can be appointed as a Minister by the President for a maximum period of",
+    "options": [
+      "9 months",
+      "3 months",
+      "12 months",
+      "6 months"
+    ],
+    "correct_answer": 3,
+    "explanation": "A minister who is not a member of either House for six consecutive months ceases to be a minister (Article 75)."
+  },
+  {
+    "id": "q21",
+    "question": "When can a President use his discretion in appointing the Prime Minister?",
+    "options": [
+      "When no political party enjoys a clear majority in the Lok Sabha.",
+      "Only when the Lok Sabha has been dissolved.",
+      "In all circumstances",
+      "In no circumstances"
+    ],
+    "correct_answer": 0,
+    "explanation": "When no single party or coalition has a clear majority, the President uses discretion to appoint someone who can likely prove a majority."
+  },
+  {
+    "id": "q22",
+    "question": "If in a country there happens to be the office of monarchy as well as a Parliamentary form of government this monarch will be called",
+    "options": [
+      "Head of the State",
+      "Head of the Cabinet",
+      "Head of the government",
+      "Both Head of the government and State"
+    ],
+    "correct_answer": 0,
+    "explanation": "In a constitutional monarchy with a parliamentary system (like the UK), the monarch is the formal Head of State."
+  },
+  {
+    "id": "q23",
+    "question": "One feature distinguishing the Rajya Sabha from the Vidhan Parishad is",
+    "options": [
+      "Power of impeachment",
+      "Indirect election",
+      "Nomination of members",
+      "Tenure of membership"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Rajya Sabha has a role in the impeachment of the President and Judges, which the State Vidhan Parishad does not."
+  },
+  {
+    "id": "q24",
+    "question": "Chief Ministers of all the states are ex-officio members of the",
+    "options": [
+      "Planning Commission",
+      "National Development Council",
+      "Inter State Council",
+      "Finance Commission"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Inter-State Council consists of the PM and Chief Ministers of all States to support center-state coordination."
+  },
+  {
+    "id": "q25",
+    "question": "Who, among the following, has the final right to sanction the expenditure of public money in India?",
+    "options": [
+      "Speaker",
+      "President",
+      "Prime Minister",
+      "Parliament"
+    ],
+    "correct_answer": 1,
+    "explanation": "No money can be withdrawn from the Consolidated Fund of India without the President's recommendation and subsequent Parliamentary approval."
+  },
+  {
+    "id": "q26",
+    "question": "Which of the following is not an essential qualification for appointment as a Governor?",
+    "options": [
+      "He must not be a member of either House of Parliament.",
+      "He should be a domicile of the state to which he is being appointed.",
+      "He should be a citizen of India.",
+      "He must have completed the age of 35 years"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Constitution does not require a Governor to be a domicile of the state to which they are appointed; in fact, the convention is usually the opposite."
+  },
+  {
+    "id": "q27",
+    "question": "The President nominates 12 members of the Rajya Sabha according to",
+    "options": [
+      "Their performance as office bearers of cultural societies.",
+      "The recommendations made by the Vice President.",
+      "Their role played in political set up of the country.",
+      "Their distinction in the field of science, art, literature and social service."
+    ],
+    "correct_answer": 3,
+    "explanation": "Article 80 provides for 12 members to be nominated based on special knowledge or practical experience in Art, Science, Literature, and Social Service."
+  },
+  {
+    "id": "q28",
+    "question": "Which Article of the Constitution empowers the President to appoint a Commission to investigate the condition of backward classes?",
+    "options": [
+      "Art 342",
+      "Art 344",
+      "Art 340",
+      "Art 339"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 340 empowers the President to appoint a commission to investigate the conditions of socially and educationally backward classes."
+  },
+  {
+    "id": "q29",
+    "question": "Who can initiate impeachment proceedings against the President of India?",
+    "options": [
+      "Either House of Parliament",
+      "Any Vidhan Sabha",
+      "Only Lok Sabha",
+      "Rajya Sabha"
+    ],
+    "correct_answer": 0,
+    "explanation": "Impeachment charges can be initiated by either the Lok Sabha or the Rajya Sabha."
+  },
+  {
+    "id": "q30",
+    "question": "Who was the member of the Rajya Sabha when first appointed as the Prime Minister of India?",
+    "options": [
+      "Lal Bahadur Shastri",
+      "Charan Singh",
+      "Morarji Desai",
+      "Indira Gandhi"
+    ],
+    "correct_answer": 3,
+    "explanation": "Indira Gandhi was a member of the Rajya Sabha when she first became Prime Minister in 1966."
+  },
+  {
+    "id": "q31",
+    "question": "What is the minimum age for appointment as a Governor?",
+    "options": [
+      "35 years",
+      "40 years",
+      "25 years",
+      "30 years"
+    ],
+    "correct_answer": 0,
+    "explanation": "A person must be at least 35 years of age to be eligible for appointment as a Governor."
+  },
+  {
+    "id": "q32",
+    "question": "Chief Minister of a State is responsible to",
+    "options": [
+      "Prime Minister",
+      "Rajya Sabha",
+      "Legislative Assembly",
+      "Governor"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Council of Ministers with the Chief Minister is collectively responsible to the Legislative Assembly of the State."
+  },
+  {
+    "id": "q33",
+    "question": "The administrative and operational control of the Armed Forces is exercised by the",
+    "options": [
+      "Cabinet Committee on Political Affairs",
+      "Ministry of Defence",
+      "Three Chiefs of Staff",
+      "President"
+    ],
+    "correct_answer": 1,
+    "explanation": "While the President is the Supreme Commander, administrative control is exercised through the Ministry of Defence."
+  },
+  {
+    "id": "q34",
+    "question": "What is the position of a Minister of State in the Central Government?",
+    "options": [
+      "He is a Minister of Central Government but not a member of the Cabinet.",
+      "He looks after the interests of the State Cabinet.",
+      "He is the nominee of the State Governor.",
+      "He is the nominee of the State Cabinet."
+    ],
+    "correct_answer": 0,
+    "explanation": "Ministers of State are the second rank of ministers; they are not members of the Cabinet unless specifically invited."
+  },
+  {
+    "id": "q35",
+    "question": "Who among the following is directly responsible to Parliament for all matters concerning the Defence Services of India?",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Defence Minister",
+      "Cabinet Committee on Political Affairs"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Union Defence Minister is responsible to Parliament for the functioning and services of the armed forces."
+  },
+  {
+    "id": "q36",
+    "question": "How many times the President of India can seek re-election to his post?",
+    "options": [
+      "Once",
+      "3 times",
+      "2 times",
+      "Any number of times"
+    ],
+    "correct_answer": 3,
+    "explanation": "Article 57 states that a person who holds office as President shall be eligible for re-election to that office any number of times."
+  },
+  {
+    "id": "q37",
+    "question": "Who among the following has the power to form a new state within the Union of India?",
+    "options": [
+      "Speaker of Lok Sabha",
+      "President",
+      "Prime Minister",
+      "Supreme Court"
+    ],
+    "correct_answer": 1,
+    "explanation": "A bill for forming new states can be introduced in Parliament only on the recommendation of the President."
+  },
+  {
+    "id": "q38",
+    "question": "Is the Prime Minister bound to advise the President on matters on which his advice is sought?",
+    "options": [
+      "If the Council of Ministers so desires.",
+      "Yes",
+      "No",
+      "It is discretionary"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Prime Minister and the Council of Ministers are constitutionally required to aid and advise the President."
+  },
+  {
+    "id": "q39",
+    "question": "When the Vice President officiates as President he draws the salary of",
+    "options": [
+      "Chairman of Rajya Sabha",
+      "Both",
+      "President",
+      "Member of Parliament"
+    ],
+    "correct_answer": 2,
+    "explanation": "When the Vice-President acts as President, he is entitled to the salary and privileges of the President."
+  },
+  {
+    "id": "q40",
+    "question": "Who among the following can attend meetings of the Union Cabinet?",
+    "options": [
+      "President",
+      "Cabinet Ministers",
+      "Ministers of State",
+      "Deputy Ministers"
+    ],
+    "correct_answer": 1,
+    "explanation": "Only Cabinet-rank ministers attend Cabinet meetings as a matter of right."
+  },
+  {
+    "id": "q41",
+    "question": "Who among the following has the Constitutional authority to make rules and regulations fixing the number of members of the UPSC?",
+    "options": [
+      "Vice- President",
+      "President",
+      "Home Ministry",
+      "Cabinet Secretary"
+    ],
+    "correct_answer": 1,
+    "explanation": "The President is empowered to determine the number of members of the Commission and their conditions of service."
+  },
+  {
+    "id": "q42",
+    "question": "Under whose advice the President of India declares Emergency under Article 352?",
+    "options": [
+      "Chief Ministers of all states",
+      "Prime Minister",
+      "Cabinet",
+      "Council of Ministers"
+    ],
+    "correct_answer": 2,
+    "explanation": "The President can only proclaim a National Emergency after receiving a written recommendation from the Union Cabinet."
+  },
+  {
+    "id": "q43",
+    "question": "Who acts as the President of India when neither the President nor the Vice President is available?",
+    "options": [
+      "Seniormost Governor of a State",
+      "Chief Justice of India",
+      "Speaker of Lok Sabha",
+      "Auditor General of India"
+    ],
+    "correct_answer": 1,
+    "explanation": "In the absence of both President and Vice-President, the Chief Justice of India performs the duties of the President."
+  },
+  {
+    "id": "q44",
+    "question": "A proclamation of emergency issued under Article 360 must be approved by the Parliament within",
+    "options": [
+      "3 months",
+      "2 months",
+      "1 Month",
+      "6 weeks"
+    ],
+    "correct_answer": 1,
+    "explanation": "A proclamation of Financial Emergency must be approved by both Houses of Parliament within two months."
+  },
+  {
+    "id": "q45",
+    "question": "The Union Council of Ministers is appointed by the",
+    "options": [
+      "President of India according to his discretion",
+      "President of India on the advice of the Prime Minister",
+      "Prime Minister of India",
+      "Parliament"
+    ],
+    "correct_answer": 1,
+    "explanation": "Ministers are appointed by the President on the advice of the Prime Minister."
+  },
+  {
+    "id": "q46",
+    "question": "The President can proclaim emergency on the written advice of the",
+    "options": [
+      "Speaker of lok Sabha",
+      "Prime Minister",
+      "Chief Justice of India",
+      "Union Cabinet"
+    ],
+    "correct_answer": 1,
+    "explanation": "Historically and practically, the advice is communicated by the Prime Minister on behalf of the Cabinet."
+  },
+  {
+    "id": "q47",
+    "question": "The Union Council of Ministers is collectively responsible to",
+    "options": [
+      "Rajya Sabha",
+      "President",
+      "House of the People",
+      "Prime Minister"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 75(3) states that the Council of Ministers shall be collectively responsible to the House of the People (Lok Sabha)."
+  },
+  {
+    "id": "q48",
+    "question": "Article 78 of the Constitution deals with",
+    "options": [
+      "President's power to get information from the Council of Ministers.",
+      "Prime Minister's duty regarding keeping the President informed.",
+      "Emergency powers of the President",
+      "President's power to send advisory messages to the Parliament."
+    ],
+    "correct_answer": 1,
+    "explanation": "Article 78 defines the duties of the Prime Minister in furnishing information to the President."
+  },
+  {
+    "id": "q49",
+    "question": "The maximum duration for which the Vice President may officiate as the President, is",
+    "options": [
+      "1 year",
+      "6 months",
+      "4 months",
+      "9 months"
+    ],
+    "correct_answer": 1,
+    "explanation": "Since a new President must be elected within 6 months of a vacancy, the Vice-President can act as President for a maximum of 6 months."
+  },
+  {
+    "id": "q50",
+    "question": "The President's Rule in a State can be continued for a maximum period of",
+    "options": [
+      "2 years",
+      "1 year",
+      "6 months",
+      "2 1/2 years"
+    ],
+    "correct_answer": 2,
+    "explanation": "Every proclamation of President's Rule must be approved by Parliament within two months and then lasts for 6 months."
+  },
+  {
+    "id": "q51",
+    "question": "The Chairman and members of State Public Service Commission are appointed by the",
+    "options": [
+      "President",
+      "Chairman, UPSC",
+      "Governor",
+      "Prime Minister"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Governor of the state appoints the Chairman and members of the State PSC."
+  },
+  {
+    "id": "q52",
+    "question": "When a State Governor dies or resigns, who normally exercises his functions till a new Governor is appointed?",
+    "options": [
+      "Chief Justice of the High Court",
+      "Advocate General of the State",
+      "Secretary General of the Governor",
+      "A person designated by State Cabinet"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Chief Justice of the respective State High Court usually performs the duties of the Governor in case of a vacancy."
+  },
+  {
+    "id": "q53",
+    "question": "When a financial emergency is proclaimed",
+    "options": [
+      "Union budget will not be presented",
+      "Salaries and allowances of any class of employees may be reduced",
+      "Repayment of government debts will stop",
+      "Payment of salaries to public servants will be postponed"
+    ],
+    "correct_answer": 1,
+    "explanation": "During a Financial Emergency, the President may issue directions for the reduction of salaries of persons serving the Union or States."
+  },
+  {
+    "id": "q54",
+    "question": "Who appoints the Chairman of the UPSC?",
+    "options": [
+      "President",
+      "Speaker of Lok Sabha",
+      "Chief Justice of India",
+      "Prime Minister"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Chairman and other members of the UPSC are appointed by the President."
+  },
+  {
+    "id": "q55",
+    "question": "Which of the following is correct regarding the Governor of a State?",
+    "options": [
+      "All of the above",
+      "He can recommend to the President to impose President's Rule in the State.",
+      "No money bill can be introduced in the State Legislature without his prior permission.",
+      "He has the power of issuing ordinances when the legislature is not in session."
+    ],
+    "correct_answer": 0,
+    "explanation": "All these are constitutional powers vested in the Governor of a state."
+  },
+  {
+    "id": "q56",
+    "question": "If the President wants to resign from office, he may do so by writing to the",
+    "options": [
+      "Chief Justice of India",
+      "Speaker of Lok Sabha",
+      "Prime Minister",
+      "Vice- President"
+    ],
+    "correct_answer": 3,
+    "explanation": "The President's resignation letter is addressed to the Vice-President of India."
+  },
+  {
+    "id": "q57",
+    "question": "Is the Prime Minister bound to advise is sought?",
+    "options": [
+      "Yes, if the Council of Ministers so desires",
+      "Yes",
+      "No",
+      "It is discretionary"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Prime Minister is constitutionally bound to provide advice and information when requested by the President."
+  },
+  {
+    "id": "q58",
+    "question": "The five year term of the President is calculated from the",
+    "options": [
+      "First day of the month following the month he assumes charge",
+      "Date of his election result",
+      "Day he assumes charge",
+      "First day of the month he assumes charge"
+    ],
+    "correct_answer": 2,
+    "explanation": "The President holds office for a term of five years from the date on which he enters upon his office."
+  },
+  {
+    "id": "q59",
+    "question": "Who is the ex- officio Chairman of the Council of States?",
+    "options": [
+      "Vice- President",
+      "Leader of the opposition",
+      "President",
+      "Speaker"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha (Council of States)."
+  },
+  {
+    "id": "q60",
+    "question": "Under which Article of the Constitution is the President's rule promulgated on any state in India?",
+    "options": [
+      "326",
+      "370",
+      "380",
+      "356"
+    ],
+    "correct_answer": 3,
+    "explanation": "Article 356 provides for the imposition of President's Rule in a state in case of failure of constitutional machinery."
+  },
+  {
+    "id": "q61",
+    "question": "At a time, President's rule can be imposed on a state for a maximum period of",
+    "options": [
+      "1 year",
+      "5 years",
+      "2 years",
+      "4 years"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beyond one year, President's rule can only be extended under special circumstances (like Emergency or Election Commission certification)."
+  },
+  {
+    "id": "q62",
+    "question": "The Chairman of the Planning Commission in India is the",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Minister of Planning",
+      "Finance Minister"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Prime Minister was the ex-officio Chairman of the Planning Commission (and now NITI Aayog)."
+  },
+  {
+    "id": "q63",
+    "question": "When Parliament is not in session, the President can promulgate an ordinance which is to be ratified by the Parliament within",
+    "options": [
+      "6 weeks from the reassembly of Parliament",
+      "6 months from the reassembly of the Parliament",
+      "6 weeks from the date of issue of ordinance.",
+      "3 months from the date of issue of the ordinance."
+    ],
+    "correct_answer": 0,
+    "explanation": "An ordinance must be laid before both Houses of Parliament and shall cease to operate at the expiration of six weeks from the reassembly of Parliament."
+  },
+  {
+    "id": "q64",
+    "question": "The President of India is elected by an electoral college comprising of",
+    "options": [
+      "Elected members of Lok sabha and state Legislative Assemblies.",
+      "Elected member of both Houses of Parliament and State Legislative Assembly",
+      "Elected members of both Houses of parliament.",
+      "Elected member of State Legislative Assemblies"
+    ],
+    "correct_answer": 1,
+    "explanation": "The electoral college consists of elected members of both Houses of Parliament and the elected members of the Legislative Assemblies of States."
+  },
+  {
+    "id": "q65",
+    "question": "If the office of the President of India falls vacant, within what time should the next president be elected?",
+    "options": [
+      "Within 2 months",
+      "Within 1 year",
+      "Within 6 months",
+      "immediately"
+    ],
+    "correct_answer": 2,
+    "explanation": "An election to fill the vacancy must be held no later than six months from the date of the vacancy."
+  },
+  {
+    "id": "q66",
+    "question": "The President can proclaim a state of emergency in case of",
+    "options": [
+      "All of the above",
+      "Threat to financial stability of the country.",
+      "External aggression or internal disturbances.",
+      "Failure of constitutional machinery in a state."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Constitution provides for National Emergency (Art 352), State Emergency (Art 356), and Financial Emergency (Art 360)."
+  },
+  {
+    "id": "q67",
+    "question": "In the election of the President, the value of the vote of the Lok Sabha members",
+    "options": [
+      "Differs according to geographical size.",
+      "None of these",
+      "Differs according to the number of votes a member represents.",
+      "is same"
+    ],
+    "correct_answer": 2,
+    "explanation": "The value of an MP's vote is determined by dividing the total value of votes of all state MLAs by the total number of elected MPs."
+  },
+  {
+    "id": "q68",
+    "question": "The Indian President is",
+    "options": [
+      "None of these",
+      "Titular executive",
+      "Real executive",
+      "Real/Titular executive"
+    ],
+    "correct_answer": 1,
+    "explanation": "The President is the nominal/titular head (De Jure), while the Prime Minister is the real head (De Facto)."
+  },
+  {
+    "id": "q69",
+    "question": "The minimum age required for becoming the prime Minister of India is",
+    "options": [
+      "30 years",
+      "35 years",
+      "40 years",
+      "25 years"
+    ],
+    "correct_answer": 3,
+    "explanation": "Since a member of Lok Sabha must be 25 years old, and the PM can be from Lok Sabha, the minimum age is 25."
+  },
+  {
+    "id": "q70",
+    "question": "The President may for violation of the Constitution be removed from the office by",
+    "options": [
+      "The Prime Minister",
+      "The Electoral College",
+      "Impeachment",
+      "A no- confidence vote"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 61 provides the procedure for impeachment of the President for 'violation of the Constitution'."
+  },
+  {
+    "id": "q71",
+    "question": "In which of the following situations does the President act in his own discretion?",
+    "options": [
+      "In returning a proposal for reconsideration",
+      "None of the Above",
+      "In appointing the Prime Minister",
+      "Both of these"
+    ],
+    "correct_answer": 0,
+    "explanation": "The President can send back the advice of the Council of Ministers once for reconsideration."
+  },
+  {
+    "id": "q72",
+    "question": "The Prime Minister, Union Cabinet Minister, Chief Minister and Council of Ministers are all members of",
+    "options": [
+      "National Development Council",
+      "Regional Council",
+      "Planning Commission",
+      "Zonal Council"
+    ],
+    "correct_answer": 0,
+    "explanation": "The NDC is presided over by the Prime Minister and includes all Union Cabinet Ministers and Chief Ministers."
+  },
+  {
+    "id": "q73",
+    "question": "The President's Rule in a state means that the state is ruled by",
+    "options": [
+      "A caretaker government",
+      "The Chief Minister nominated by the President",
+      "The Governor of the State",
+      "The President directly"
+    ],
+    "correct_answer": 2,
+    "explanation": "Under President's Rule, the Governor carries on the administration of the state on behalf of the President."
+  },
+  {
+    "id": "q74",
+    "question": "The Chief Minister of a Union Territory whenever such a set up exists, is appointed by",
+    "options": [
+      "The Lt. Governor",
+      "The majority party",
+      "The President",
+      "The Prime Minister"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Lt. Governor administers the oath and formally appoints the CM in Union Territories."
+  },
+  {
+    "id": "q75",
+    "question": "Under what article of the Constitution of India can the President take over the administration of a state?",
+    "options": [
+      "Art 352",
+      "Art 343",
+      "Art 356",
+      "Art 83"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 356 is the provision for President's Rule in states."
+  },
+  {
+    "id": "q76",
+    "question": "The President can make laws through ordinances",
+    "options": [
+      "Only on subjects in the concurrent list",
+      "Under no circumstances",
+      "Even when Parliament is in session.",
+      "During the recess of the Parliament"
+    ],
+    "correct_answer": 3,
+    "explanation": "Article 123 empowers the President to promulgate ordinances when either House of Parliament is not in session."
+  },
+  {
+    "id": "q77",
+    "question": "Which of the following qualification is not essential for a person to become the Vice- President?",
+    "options": [
+      "He must be an Indian.",
+      "He must be qualified for Rajya Sabha.",
+      "He must be at least 35 years.",
+      "He must be a graduate."
+    ],
+    "correct_answer": 3,
+    "explanation": "The Constitution does not prescribe any specific educational qualification (like being a graduate) for the Vice-President."
+  },
+  {
+    "id": "q78",
+    "question": "How many types of Emergency have been visualised in the Constitution of India?",
+    "options": [
+      "Four",
+      "Three",
+      "One",
+      "Two"
+    ],
+    "correct_answer": 1,
+    "explanation": "The three types are National Emergency, State Emergency (President's Rule), and Financial Emergency."
+  },
+  {
+    "id": "q79",
+    "question": "The impeachment proceedings against the Vice- President can be initiated",
+    "options": [
+      "Only in Lok Sabha",
+      "In neither Hosue of Parliament",
+      "In either House of Parliament",
+      "Only in Rajya Sabha"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Vice-President can be removed by a resolution of the Rajya Sabha passed by an effective majority and agreed to by the Lok Sabha."
+  },
+  {
+    "id": "q80",
+    "question": "Who appoints the Governor of Jammu and Kashmir?",
+    "options": [
+      "Chief Minister of the State",
+      "Prime Minister",
+      "Chief Justice",
+      "President"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Governor (now Lt. Governor) of J&K is appointed by the President of India."
+  },
+  {
+    "id": "q81",
+    "question": "The President of India can be removed from his office by the",
+    "options": [
+      "Parliament",
+      "Chief Justice of India",
+      "Prime Minister",
+      "Lok Sabha"
+    ],
+    "correct_answer": 0,
+    "explanation": "Removal of the President is done through the process of impeachment by the Parliament."
+  },
+  {
+    "id": "q82",
+    "question": "If the President returns a Bill and Parliament passes it again in original form, then the President",
+    "options": [
+      "Can seek Supreme Court opinion",
+      "Gives assent to the bill",
+      "Can return it again",
+      "Can ask for a referendum"
+    ],
+    "correct_answer": 1,
+    "explanation": "If a bill is passed again by the Houses with or without amendment and presented to the President, the President shall not withhold assent."
+  },
+  {
+    "id": "q83",
+    "question": "If a Minister loses a no- confidence motion, then",
+    "options": [
+      "Lok Sabha is dissolved",
+      "Only PM and that Minister resigns.",
+      "The whole Council of Ministers resigns",
+      "The Minister resigns"
+    ],
+    "correct_answer": 2,
+    "explanation": "Collective responsibility means that a vote of no-confidence against one minister is considered a vote against the entire Council of Ministers."
+  },
+  {
+    "id": "q84",
+    "question": "The only instance when the President of India exercised his power of veto related to the",
+    "options": [
+      "Indian Post Office (Amendment Bill)",
+      "Dowry Prohibition Bill",
+      "Hindu Code Bill",
+      "PEPSU Appropriation Bill"
+    ],
+    "correct_answer": 0,
+    "explanation": "President Zail Singh exercised a pocket veto in 1986 regarding the Indian Post Office (Amendment) Bill."
+  },
+  {
+    "id": "q85",
+    "question": "The control of the preparation of electoral rolls for parliament and legislature vests with the",
+    "options": [
+      "President",
+      "Election Commission",
+      "Cabinet",
+      "Prime Minister"
+    ],
+    "correct_answer": 1,
+    "explanation": "Article 324 vests the superintendence, direction, and control of elections (including electoral rolls) in the Election Commission."
+  },
+  {
+    "id": "q86",
+    "question": "What is contained in the tenth schedule of the constitution?",
+    "options": [
+      "Languages",
+      "Forms of oath",
+      "Laws exempt from court challenge",
+      "Provision regarding disqualification on grounds of defection"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Tenth Schedule was added by the 52nd Amendment Act, 1985, to deal with anti-defection."
+  },
+  {
+    "id": "q87",
+    "question": "The Election commission holds election for",
+    "options": [
+      "Parliament, State Legislature, President and Vice-President",
+      "Parliament, Assemblies and State Council",
+      "The parliament",
+      "The parliament and Assemblies"
+    ],
+    "correct_answer": 0,
+    "explanation": "The ECI conducts elections for the Union Parliament, State Legislatures, and the offices of President and Vice-President."
+  },
+  {
+    "id": "q88",
+    "question": "For Election to the lok sabha, a nomination paper can be field by",
+    "options": [
+      "Any citizen of India",
+      "Any citizen whose name appears in the electoral roll.",
+      "Anyone residing in India",
+      "A resident of the Constituency"
+    ],
+    "correct_answer": 1,
+    "explanation": "A person must be a registered voter to file a nomination for Lok Sabha elections."
+  },
+  {
+    "id": "q89",
+    "question": "In India, political parties are given recognition by",
+    "options": [
+      "Election Commission",
+      "Speaker of Lok Sabha",
+      "President",
+      "Law Commission"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Election Commission of India recognizes political parties as National or State parties."
+  },
+  {
+    "id": "q90",
+    "question": "The Vice President is elected by an Electoral College consisting of members of",
+    "options": [
+      "Both Houses and state legislative",
+      "Both Houses of Parliament",
+      "Lok Sabha",
+      "Rajya Sabha"
+    ],
+    "correct_answer": 1,
+    "explanation": "The electoral college for the Vice-President consists of members of both Houses of Parliament (both elected and nominated)."
+  },
+  {
+    "id": "q91",
+    "question": "The election commission does not conduct the elections to the",
+    "options": [
+      "Lok Sabha",
+      "President's election",
+      "Rajya Sabha",
+      "Local Bodies"
+    ],
+    "correct_answer": 3,
+    "explanation": "Elections to Local Bodies (Panchayats and Municipalities) are conducted by the State Election Commissions, not the ECI."
+  },
+  {
+    "id": "q92",
+    "question": "The maximum age prescribed for election as president is",
+    "options": [
+      "No such Limit",
+      "62 years",
+      "58 years",
+      "60 years"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Constitution specifies a minimum age of 35 but does not prescribe any upper age limit for the President."
+  },
+  {
+    "id": "q93",
+    "question": "The power to decide an election petition is vested in the",
+    "options": [
+      "High Court",
+      "Election Commission",
+      "Parliament",
+      "Supreme Court"
+    ],
+    "correct_answer": 1,
+    "explanation": "Petitions regarding the election of the President/Vice-President go to the Supreme Court, while others go through the ECI/High Courts."
+  },
+  {
+    "id": "q94",
+    "question": "To elect the President of India, which election procedure is used?",
+    "options": [
+      "System of proportional representation by means of single transferable vote",
+      "Secondary voting system",
+      "Proportional representation through list system",
+      "Collective Voting system"
+    ],
+    "correct_answer": 0,
+    "explanation": "Article 54 and 55 prescribe the single transferable vote system for the Presidential election."
+  },
+  {
+    "id": "q95",
+    "question": "In which year were the first general election held in India?",
+    "options": [
+      "1950-51",
+      "1948-49",
+      "1951-52",
+      "1947-48"
+    ],
+    "correct_answer": 2,
+    "explanation": "India's first general elections were held between October 1951 and February 1952."
+  },
+  {
+    "id": "q96",
+    "question": "Election to the house of the people and the Legislative Assemblies are conducted on the basis of",
+    "options": [
+      "Single Transferable vote",
+      "Proportional Representation",
+      "Limited sufferage",
+      "Adult Franchise"
+    ],
+    "correct_answer": 3,
+    "explanation": "Universal Adult Franchise (Article 326) allows every citizen above 18 to vote."
+  },
+  {
+    "id": "q97",
+    "question": "Who appoint the Chief Election Commissioner of India?",
+    "options": [
+      "Chief Justice of India",
+      "President",
+      "Prime Minister",
+      "Parliament"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Chief Election Commissioner and other Election Commissioners are appointed by the President."
+  },
+  {
+    "id": "q98",
+    "question": "Which among the following is not a part of the electoral reforms?",
+    "options": [
+      "Installation of electronic voting machines",
+      "Appointment of election Commissioner",
+      "Registration of Political parties",
+      "Disqualifying the offenders"
+    ],
+    "correct_answer": 0,
+    "explanation": "While EVMs are a technical change in the voting process, the others are structural/legal electoral reforms."
+  },
+  {
+    "id": "q99",
+    "question": "Recognition to a political party is accorded by",
+    "options": [
+      "The Election Commission",
+      "A Committee of Whips",
+      "The ministry of parliament Affairs",
+      "The speaker"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Election Commission of India has the power to recognize parties and allot symbols."
+  },
+  {
+    "id": "q100",
+    "question": "The Chief Minister of a state in India is not eligible to vote in the Presidential election if",
+    "options": [
+      "He is a member of the Upper House of the State Legislature",
+      "He is a caretaker Chief Minister",
+      "He himself is a candidate",
+      "He is yet to prove his majority"
+    ],
+    "correct_answer": 0,
+    "explanation": "Only elected members of the Legislative Assembly (Lower House) can vote. Members of the Legislative Council (Upper House) are excluded."
+  }
+]

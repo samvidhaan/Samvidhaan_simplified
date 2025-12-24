@@ -1,0 +1,233 @@
+[
+  {
+    "id": "part1",
+    "title": "Part I: The Union and its Territory",
+    "articles": "Articles 1 to 4",
+    "content": [
+      "India is referred to as a Union of States, indicating that its unity cannot be broken.",
+      "The Indian Union cannot split in two.",
+      "Specifies the structure of the Union Government and the state governments.",
+      "Divided into numerous regions known as states or union territories."
+    ]
+  },
+  {
+    "id": "part2",
+    "title": "Part II: Citizenship",
+    "articles": "Articles 5 to 11",
+    "content": [
+      "Articles 5 to 8 describe who was eligible for Indian citizenship at the time of enactment.",
+      "Articles 9 to 11 define how citizenship is obtained and lost."
+    ]
+  },
+  {
+    "id": "part3",
+    "title": "Part III: Fundamental Rights",
+    "articles": "Articles 12 to 35",
+    "content": [
+      "Guarantees basic rights and remedies in the event that they are violated.",
+      "Protects individuals from collective action or state overreach.",
+      "Heavily influenced by the US Bill of Rights clauses."
+    ]
+  },
+  {
+    "id": "part4",
+    "title": "Part IV: Directive Principles of State Policy",
+    "articles": "Articles 36 to 51",
+    "content": [
+      "Guidelines for the government to establish social and economic justice.",
+      "Article 37 declares these principles are non-justiciable (cannot be upheld through legal channels in court)."
+    ]
+  },
+  {
+    "id": "part4a",
+    "title": "Part IVA: Fundamental Duties",
+    "articles": "Article 51A",
+    "content": [
+      "Inserted by the 42nd Amendment Act of 1976 based on Swaran Singh Committee recommendations.",
+      "Stipulates 11 Fundamental Duties for Indian citizens."
+    ]
+  },
+  {
+    "id": "part5",
+    "title": "Part V: The Union",
+    "articles": "Articles 52 to 151",
+    "content": [
+      "Union Executive (Articles 52–78)",
+      "Union Legislature/Parliament (Articles 79-122)",
+      "Union Judiciary/Supreme Court (Articles 124-147)"
+    ]
+  },
+  {
+    "id": "part6",
+    "title": "Part VI: The States",
+    "articles": "Articles 153 to 237",
+    "content": [
+      "State Executive (Articles 153-167)",
+      "State Legislature (Articles 168-212)",
+      "State Judiciary/High Courts (Articles 214-237)"
+    ]
+  },
+  {
+    "id": "part8",
+    "title": "Part VIII: The Union Territories",
+    "articles": "Articles 239 to 242",
+    "content": [
+      "Ultimate decision-making authority belongs to the Parliament.",
+      "Governed directly by the Centre through an administrator chosen by the President.",
+      "UTs lack the conventional autonomy found in states."
+    ]
+  },
+  {
+    "id": "part9",
+    "title": "Part IX: The Panchayats",
+    "articles": "Article 243 to 243O",
+    "content": [
+      "Article 40 directs the state to organize village panchayats.",
+      "Covered by the 73rd Amendment to enhance local self-government in rural areas."
+    ]
+  },
+  {
+    "id": "part9a",
+    "title": "Part IXA: The Municipalities",
+    "articles": "Article 243P to 243ZG",
+    "content": [
+      "Defined under the 74th Amendment Act of 1992.",
+      "Concerns the organization, authority, and duties of urban self-government entities."
+    ]
+  },
+  {
+    "id": "part9b",
+    "title": "Part IXB: Co-operative Societies",
+    "articles": "Article 243ZH to 243ZT",
+    "content": [
+      "Added by the 97th Amendment Act of 2011.",
+      "Focuses on social and economic justice through cooperative self-help groups."
+    ]
+  },
+  {
+    "id": "part10",
+    "title": "Part X: The Scheduled and Tribal Areas",
+    "articles": "Articles 244 to 244A",
+    "content": [
+      "Fifth Schedule applies to the administration of Scheduled Areas and Tribes in most states.",
+      "Sixth Schedule applies to Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram."
+    ]
+  },
+  {
+    "id": "part11",
+    "title": "Part XI: Relations between the Union and the States",
+    "articles": "Articles 245 to 263",
+    "content": [
+      "Legislative relations (Articles 245-255)",
+      "Administrative relations (Articles 256-263)"
+    ]
+  },
+  {
+    "id": "part12",
+    "title": "Part XII: Finance, Property, Contracts, and Suits",
+    "articles": "Articles 264 to 300A",
+    "content": [
+      "Governs the transfer of properties, assets, rights, and liabilities.",
+      "Covers the executive power of Union/States to engage in trade and enter contracts."
+    ]
+  },
+  {
+    "id": "part13",
+    "title": "Part XIII: Trade, Commerce and Intercourse",
+    "articles": "Articles 301 to 307",
+    "content": [
+      "Guarantees freedom of trade, commerce, and sexual activity within Indian territory.",
+      "Based on models found in the Australian Constitution."
+    ]
+  },
+  {
+    "id": "part14",
+    "title": "Part XIV: Services under the Union and States",
+    "articles": "Articles 308 to 323",
+    "content": [
+      "Concerns hiring, working conditions, and protection of public employees.",
+      "Establishes Public Service Commissions (UPSC and State PSCs)."
+    ]
+  },
+  {
+    "id": "part14a",
+    "title": "Part XIVA: Tribunals",
+    "articles": "Articles 323A to 323B",
+    "content": [
+      "Quasi-judicial organizations for administrative or tax-related disputes.",
+      "Established by the 42nd Amendment Act of 1976."
+    ]
+  },
+  {
+    "id": "part15",
+    "title": "Part XV: Elections",
+    "articles": "Articles 324 to 329",
+    "content": [
+      "Vests authority in the Election Commission for the conduct of elections.",
+      "Article 324 grants extensive powers to ensure free and fair elections."
+    ]
+  },
+  {
+    "id": "part16",
+    "title": "Part XVI: Special Provisions for Certain Classes",
+    "articles": "Articles 330 to 342",
+    "content": [
+      "Safeguards for Scheduled Castes, Scheduled Tribes, Backward Classes, and Anglo-Indians.",
+      "Concerns reservation of seats in the Lok Sabha and State Assemblies."
+    ]
+  },
+  {
+    "id": "part17",
+    "title": "Part XVII: Official Language",
+    "articles": "Articles 343 to 351",
+    "content": [
+      "Outlines the official language of the Union (Articles 343-344).",
+      "Official languages are listed in the 8th Schedule of the Constitution."
+    ]
+  },
+  {
+    "id": "part18",
+    "title": "Part XVIII: Emergency Provisions",
+    "articles": "Articles 352 to 360",
+    "content": [
+      "Allows the federal government to become a unitary government during crises.",
+      "Three categories: National Emergency, President's Rule, and Financial Emergency."
+    ]
+  },
+  {
+    "id": "part19",
+    "title": "Part XIX: Miscellaneous",
+    "articles": "Articles 361 to 367",
+    "content": [
+      "Protection of the President and Governors.",
+      "Barring of courts in certain treaty disputes and abolishion of privy purses."
+    ]
+  },
+  {
+    "id": "part20",
+    "title": "Part XX: Amendment to the Constitution",
+    "articles": "Article 368",
+    "content": [
+      "Addresses the power of Parliament to amend the Constitution.",
+      "Designed to be neither too rigid nor too flexible."
+    ]
+  },
+  {
+    "id": "part21",
+    "title": "Part XXI: Temporary, Transitional and Special Provisions",
+    "articles": "Articles 369 to 392",
+    "content": [
+      "Includes Article 371 to 371-J to meet aspirations of backward regions.",
+      "Protects tribal cultural and economic interests."
+    ]
+  },
+  {
+    "id": "part22",
+    "title": "Part XXII: Short Title, Commencement and Repeals",
+    "articles": "Articles 393 to 395",
+    "content": [
+      "Concerns the short title and commencement date of the Constitution.",
+      "Contains authoritative text in Hindi and repeal of previous acts."
+    ]
+  }
+]
