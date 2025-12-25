@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+faiss-cpu
+sentence-transformers
+google-genai
+chromadb
+pymupdf
+nltk==3.8.1
+python-dotenv
