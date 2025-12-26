@@ -39,7 +39,7 @@ PARTS_DATA_PATH = os.path.join("data", "constitution_parts.json")
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 GEMINI_MODEL = "gemini-2.5-flash"
 
-SIMILARITY_THRESHOLD = 0.45
+SIMILARITY_THRESHOLD = 0.25
 MAX_RESULTS = 8
 
 # -------------------------
@@ -153,14 +153,14 @@ Rules:
 - Do NOT use outside knowledge.
 - If multiple articles are provided, compare them clearly.
 - If something is not present, say so explicitly.
-
+-If query is related directly to any article and if that article is found display it.
 Context:
 {context_text}
 
 Question:
 {query}
 
-Answer clearly in simple language.
+Answer clearly.
 """
 
 def extract_gemini_text(response) -> str:

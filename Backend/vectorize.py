@@ -7,7 +7,11 @@ from sentence_transformers import SentenceTransformer
 # -------------------------------
 # Config
 # -------------------------------
-INPUT_JSON = "data/constitution_paragraphs.json"
+INPUT_JSON_FILES = [
+    "data/constitution.json",
+    "data/articles.json"   ]
+           
+
 VECTOR_DIR = "vector_store"
 INDEX_PATH = os.path.join(VECTOR_DIR, "index.faiss")
 METADATA_PATH = os.path.join(VECTOR_DIR, "metadata.json")
@@ -20,12 +24,17 @@ MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 os.makedirs(VECTOR_DIR, exist_ok=True)
 
 # -------------------------------
-# Load Constitution JSON
+# Load & merge JSON data
 # -------------------------------
-with open(INPUT_JSON, "r", encoding="utf-8") as f:
-    data = json.load(f)
+all_records = []
 
-print(f"Loaded {len(data)} constitution records")
+for json_file in INPUT_JSON_FILES:
+    with open(json_file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        print(f"Loaded {len(data)} records from {json_file}")
+        all_records.extend(data)
+
+print(f"✅ Total merged records: {len(all_records)}")
 
 # -------------------------------
 # Prepare texts & metadata
@@ -33,7 +42,7 @@ print(f"Loaded {len(data)} constitution records")
 texts = []
 metadata = []
 
-for record in data:
+for record in all_records:
     text = (
         f"Part: {record.get('part_title')}\n"
         f"Article: {record.get('article_number')} - {record.get('article_title')}\n"
@@ -44,12 +53,16 @@ for record in data:
 
     metadata.append({
         "id": record.get("id"),
+        "source_type": record.get("source_type"),
         "part_number": record.get("part_number"),
         "part_title": record.get("part_title"),
         "article_number": record.get("article_number"),
         "article_title": record.get("article_title"),
         "content": record.get("content"),
-        "source_references": record.get("source_references")
+        "sub_sections": record.get("sub_sections"),
+        "amendments_notes": record.get("amendments_notes"),
+        "source_references": record.get("source_references"),
+        "source": record.get("source")
     })
 
 # -------------------------------
@@ -73,7 +86,7 @@ print(f"Embedding dimension: {dimension}")
 # -------------------------------
 # Create FAISS index
 # -------------------------------
-index = faiss.IndexFlatIP(dimension)  # cosine similarity (with normalized vectors)
+index = faiss.IndexFlatIP(dimension)  # cosine similarity
 index.add(embeddings)
 
 print(f"FAISS index size: {index.ntotal}")

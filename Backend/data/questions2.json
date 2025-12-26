@@ -1,0 +1,2338 @@
+[
+  {
+    "id": "q1",
+    "question": "The Governor of a State is appointed by the President on the advice of the",
+    "options": [
+      "Prime Minister",
+      "Vice- President",
+      "Chief Minister",
+      "Chief Justice"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Governor is appointed by the President, but as per constitutional convention, this is done on the advice of the Union Cabinet headed by the Prime Minister."
+  },
+  {
+    "id": "q2",
+    "question": "The President gives his resignation to the",
+    "options": [
+      "Chief Justice",
+      "Parliament",
+      "Vice President",
+      "Prime Minister"
+    ],
+    "correct_answer": 2,
+    "explanation": "According to Article 56(1)(a), the President addresses the resignation letter to the Vice-President."
+  },
+  {
+    "id": "q3",
+    "question": "For what period does the Vice President of India hold office?",
+    "options": [
+      "5 years",
+      "Till the age of 65 years",
+      "6 years",
+      "2 Years"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Vice-President holds office for a term of five years from the date on which he enters upon his office."
+  },
+  {
+    "id": "q4",
+    "question": "Who among the following holds office during the pleasure of the President?",
+    "options": [
+      "Governor",
+      "Election Commissioner",
+      "Speaker of Lok Sabha",
+      "Prime Minister"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Governor of a State holds office during the pleasure of the President (Article 156)."
+  },
+  {
+    "id": "q5",
+    "question": "Which of the following is not true regarding the payment of the emoluments of the President?",
+    "options": [
+      "They can be reduced during a Financial Emergency.",
+      "They are shown separately in the budget.",
+      "They are charged on the Contigency Fund of India.",
+      "They do nol require any parliament sanction."
+    ],
+    "correct_answer": 2,
+    "explanation": "The emoluments of the President are charged on the Consolidated Fund of India, not the Contingency Fund."
+  },
+  {
+    "id": "q6",
+    "question": "The total number of members nominated by the President to the Lok Sabha and the Rajya Sabha is",
+    "options": [
+      "16",
+      "18",
+      "14",
+      "12"
+    ],
+    "correct_answer": 2,
+    "explanation": "The President nominates 12 members to Rajya Sabha and (previously) 2 members to Lok Sabha, totaling 14."
+  },
+  {
+    "id": "q7",
+    "question": "Which one of the following does not constitute the electoral college for electing the President of India?",
+    "options": [
+      "Elected members of Lok Sabha",
+      "Elected members of the Legislative Assembly of each state.",
+      "Elected members of the Legislative Council",
+      "Elected members of Rajya Sabha"
+    ],
+    "correct_answer": 2,
+    "explanation": "Members of Legislative Councils do not participate in the Presidential election; only elected members of Lok Sabha, Rajya Sabha, and Legislative Assemblies participate."
+  },
+  {
+    "id": "q8",
+    "question": "Council of Ministers in a Parliamentary type of Government can remain in office till it enjoys the support of the",
+    "options": [
+      "Majority of members of the Upper House of Parliament",
+      "Majority of the members of the Upper House of parliament",
+      "Minority of members of the Lower House",
+      "Majority of the members of the Lower House of Parliament"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Council of Ministers is collectively responsible to the Lok Sabha (Lower House) and remains in power as long as it enjoys majority support there."
+  },
+  {
+    "id": "q9",
+    "question": "Which of the following appointments is not made by the President of India?",
+    "options": [
+      "Chief of the Army",
+      "Speaker of the Lok Sabha",
+      "Chief Justice of India",
+      "Chief of the Air Force"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Speaker of the Lok Sabha is elected by the members of the Lok Sabha from amongst themselves, not appointed by the President."
+  },
+  {
+    "id": "q10",
+    "question": "Who appoints the Prime Minister of India?",
+    "options": [
+      "Lok Sabha",
+      "President",
+      "Parliament",
+      "Citizens of India"
+    ],
+    "correct_answer": 1,
+    "explanation": "Under Article 75, the Prime Minister is appointed by the President."
+  },
+  {
+    "id": "q11",
+    "question": "The first woman Governor of a state in free India was",
+    "options": [
+      "Mrs. Indira Gandhi",
+      "Mrs. Vijaya Laxmi Pandit",
+      "Mrs. Sarojini Naidu",
+      "Mrs. Sucheta Kripalani"
+    ],
+    "correct_answer": 2,
+    "explanation": "Sarojini Naidu was the first woman to become the Governor of an Indian state (Uttar Pradesh)."
+  },
+  {
+    "id": "q12",
+    "question": "Minimum age required to contest for Presidentship is",
+    "options": [
+      "23 years",
+      "21 years",
+      "35 years",
+      "30 years"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 58 specifies that a person must have completed the age of 35 years to be eligible for election as President."
+  },
+  {
+    "id": "q13",
+    "question": "The charge of impeachment against the President of India for his removal can be preferred by",
+    "options": [
+      "Both Houses of Parliament",
+      "Speaker of Lok Sabha and Chairman of Rajya Sabha",
+      "Rajya Sabha",
+      "Lok Sabha"
+    ],
+    "correct_answer": 0,
+    "explanation": "Impeachment proceedings can be initiated in either House of Parliament (Article 61)."
+  },
+  {
+    "id": "q14",
+    "question": "The Chief Minister of a Union Territory where such a set up exists, is appointed by the",
+    "options": [
+      "Lt. Governor",
+      "Majority party in Legislature",
+      "President",
+      "Prime Minister"
+    ],
+    "correct_answer": 2,
+    "explanation": "In Union Territories like Delhi, the Chief Minister is appointed by the President."
+  },
+  {
+    "id": "q15",
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mrs. Indira Gandhi",
+      "Dr. Rajendra Prasad",
+      "Mahatma Gandhi"
+    ],
+    "correct_answer": 0,
+    "explanation": "Jawaharlal Nehru served as the first Prime Minister of independent India from 1947 to 1964."
+  },
+  {
+    "id": "q16",
+    "question": "In case a President dies while in office, the vice President can act as President for a maximum period of",
+    "options": [
+      "1 years",
+      "3 months",
+      "6 months",
+      "2 years"
+    ],
+    "correct_answer": 2,
+    "explanation": "An election to fill a vacancy in the office of President occurring by reason of death must be held within six months."
+  },
+  {
+    "id": "q17",
+    "question": "The Union Council of Ministers consists of",
+    "options": [
+      "Cabinet Ministers, Minister of State and Deputy Ministers",
+      "Cabinet Ministers and Chief Ministers of the States",
+      "Prime Minister",
+      "Cabinet Ministers"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Council of Ministers is a three-tier body comprising Cabinet Ministers, Ministers of State, and Deputy Ministers."
+  },
+  {
+    "id": "q18",
+    "question": "Who administers the oath of office to the President of India before he enters upon the office?",
+    "options": [
+      "Chief Justice",
+      "Speaker",
+      "Vice President",
+      "Prime Minister"
+    ],
+    "correct_answer": 0,
+    "explanation": "The oath of office to the President is administered by the Chief Justice of India."
+  },
+  {
+    "id": "q19",
+    "question": "Who among the following enjoys the rank of a Cabinet Minister of the Indian Union?",
+    "options": [
+      "None of the Above",
+      "Deputy Chairman of the Planning Commission",
+      "Deputy Chairman, Rajya Sabha",
+      "Secretary to the Government of India"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Deputy Chairman of the Planning Commission (now NITI Aayog) traditionally holds the rank of a Cabinet Minister."
+  },
+  {
+    "id": "q20",
+    "question": "A person who is not a member of Parliament can be appointed as a Minister by the President for a maximum period of",
+    "options": [
+      "9 months",
+      "3 months",
+      "12 months",
+      "6 months"
+    ],
+    "correct_answer": 3,
+    "explanation": "A minister who is not a member of either House for six consecutive months ceases to be a minister (Article 75)."
+  },
+  {
+    "id": "q21",
+    "question": "When can a President use his discretion in appointing the Prime Minister?",
+    "options": [
+      "When no political party enjoys a clear majority in the Lok Sabha.",
+      "Only when the Lok Sabha has been dissolved.",
+      "In all circumstances",
+      "In no circumstances"
+    ],
+    "correct_answer": 0,
+    "explanation": "When no single party or coalition has a clear majority, the President uses discretion to appoint someone who can likely prove a majority."
+  },
+  {
+    "id": "q22",
+    "question": "If in a country there happens to be the office of monarchy as well as a Parliamentary form of government this monarch will be called",
+    "options": [
+      "Head of the State",
+      "Head of the Cabinet",
+      "Head of the government",
+      "Both Head of the government and State"
+    ],
+    "correct_answer": 0,
+    "explanation": "In a constitutional monarchy with a parliamentary system (like the UK), the monarch is the formal Head of State."
+  },
+  {
+    "id": "q23",
+    "question": "One feature distinguishing the Rajya Sabha from the Vidhan Parishad is",
+    "options": [
+      "Power of impeachment",
+      "Indirect election",
+      "Nomination of members",
+      "Tenure of membership"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Rajya Sabha has a role in the impeachment of the President and Judges, which the State Vidhan Parishad does not."
+  },
+  {
+    "id": "q24",
+    "question": "Chief Ministers of all the states are ex-officio members of the",
+    "options": [
+      "Planning Commission",
+      "National Development Council",
+      "Inter State Council",
+      "Finance Commission"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Inter-State Council consists of the PM and Chief Ministers of all States to support center-state coordination."
+  },
+  {
+    "id": "q25",
+    "question": "Who, among the following, has the final right to sanction the expenditure of public money in India?",
+    "options": [
+      "Speaker",
+      "President",
+      "Prime Minister",
+      "Parliament"
+    ],
+    "correct_answer": 1,
+    "explanation": "No money can be withdrawn from the Consolidated Fund of India without the President's recommendation and subsequent Parliamentary approval."
+  },
+  {
+    "id": "q26",
+    "question": "Which of the following is not an essential qualification for appointment as a Governor?",
+    "options": [
+      "He must not be a member of either House of Parliament.",
+      "He should be a domicile of the state to which he is being appointed.",
+      "He should be a citizen of India.",
+      "He must have completed the age of 35 years"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Constitution does not require a Governor to be a domicile of the state to which they are appointed; in fact, the convention is usually the opposite."
+  },
+  {
+    "id": "q27",
+    "question": "The President nominates 12 members of the Rajya Sabha according to",
+    "options": [
+      "Their performance as office bearers of cultural societies.",
+      "The recommendations made by the Vice President.",
+      "Their role played in political set up of the country.",
+      "Their distinction in the field of science, art, literature and social service."
+    ],
+    "correct_answer": 3,
+    "explanation": "Article 80 provides for 12 members to be nominated based on special knowledge or practical experience in Art, Science, Literature, and Social Service."
+  },
+  {
+    "id": "q28",
+    "question": "Which Article of the Constitution empowers the President to appoint a Commission to investigate the condition of backward classes?",
+    "options": [
+      "Art 342",
+      "Art 344",
+      "Art 340",
+      "Art 339"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 340 empowers the President to appoint a commission to investigate the conditions of socially and educationally backward classes."
+  },
+  {
+    "id": "q29",
+    "question": "Who can initiate impeachment proceedings against the President of India?",
+    "options": [
+      "Either House of Parliament",
+      "Any Vidhan Sabha",
+      "Only Lok Sabha",
+      "Rajya Sabha"
+    ],
+    "correct_answer": 0,
+    "explanation": "Impeachment charges can be initiated by either the Lok Sabha or the Rajya Sabha."
+  },
+  {
+    "id": "q30",
+    "question": "Who was the member of the Rajya Sabha when first appointed as the Prime Minister of India?",
+    "options": [
+      "Lal Bahadur Shastri",
+      "Charan Singh",
+      "Morarji Desai",
+      "Indira Gandhi"
+    ],
+    "correct_answer": 3,
+    "explanation": "Indira Gandhi was a member of the Rajya Sabha when she first became Prime Minister in 1966."
+  },
+  {
+    "id": "q31",
+    "question": "What is the minimum age for appointment as a Governor?",
+    "options": [
+      "35 years",
+      "40 years",
+      "25 years",
+      "30 years"
+    ],
+    "correct_answer": 0,
+    "explanation": "A person must be at least 35 years of age to be eligible for appointment as a Governor."
+  },
+  {
+    "id": "q32",
+    "question": "Chief Minister of a State is responsible to",
+    "options": [
+      "Prime Minister",
+      "Rajya Sabha",
+      "Legislative Assembly",
+      "Governor"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Council of Ministers with the Chief Minister is collectively responsible to the Legislative Assembly of the State."
+  },
+  {
+    "id": "q33",
+    "question": "The administrative and operational control of the Armed Forces is exercised by the",
+    "options": [
+      "Cabinet Committee on Political Affairs",
+      "Ministry of Defence",
+      "Three Chiefs of Staff",
+      "President"
+    ],
+    "correct_answer": 1,
+    "explanation": "While the President is the Supreme Commander, administrative control is exercised through the Ministry of Defence."
+  },
+  {
+    "id": "q34",
+    "question": "What is the position of a Minister of State in the Central Government?",
+    "options": [
+      "He is a Minister of Central Government but not a member of the Cabinet.",
+      "He looks after the interests of the State Cabinet.",
+      "He is the nominee of the State Governor.",
+      "He is the nominee of the State Cabinet."
+    ],
+    "correct_answer": 0,
+    "explanation": "Ministers of State are the second rank of ministers; they are not members of the Cabinet unless specifically invited."
+  },
+  {
+    "id": "q35",
+    "question": "Who among the following is directly responsible to Parliament for all matters concerning the Defence Services of India?",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Defence Minister",
+      "Cabinet Committee on Political Affairs"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Union Defence Minister is responsible to Parliament for the functioning and services of the armed forces."
+  },
+  {
+    "id": "q36",
+    "question": "How many times the President of India can seek re-election to his post?",
+    "options": [
+      "Once",
+      "3 times",
+      "2 times",
+      "Any number of times"
+    ],
+    "correct_answer": 3,
+    "explanation": "Article 57 states that a person who holds office as President shall be eligible for re-election to that office any number of times."
+  },
+  {
+    "id": "q37",
+    "question": "Who among the following has the power to form a new state within the Union of India?",
+    "options": [
+      "Speaker of Lok Sabha",
+      "President",
+      "Prime Minister",
+      "Supreme Court"
+    ],
+    "correct_answer": 1,
+    "explanation": "A bill for forming new states can be introduced in Parliament only on the recommendation of the President."
+  },
+  {
+    "id": "q38",
+    "question": "Is the Prime Minister bound to advise the President on matters on which his advice is sought?",
+    "options": [
+      "If the Council of Ministers so desires.",
+      "Yes",
+      "No",
+      "It is discretionary"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Prime Minister and the Council of Ministers are constitutionally required to aid and advise the President."
+  },
+  {
+    "id": "q39",
+    "question": "When the Vice President officiates as President he draws the salary of",
+    "options": [
+      "Chairman of Rajya Sabha",
+      "Both",
+      "President",
+      "Member of Parliament"
+    ],
+    "correct_answer": 2,
+    "explanation": "When the Vice-President acts as President, he is entitled to the salary and privileges of the President."
+  },
+  {
+    "id": "q40",
+    "question": "Who among the following can attend meetings of the Union Cabinet?",
+    "options": [
+      "President",
+      "Cabinet Ministers",
+      "Ministers of State",
+      "Deputy Ministers"
+    ],
+    "correct_answer": 1,
+    "explanation": "Only Cabinet-rank ministers attend Cabinet meetings as a matter of right."
+  },
+  {
+    "id": "q41",
+    "question": "Who among the following has the Constitutional authority to make rules and regulations fixing the number of members of the UPSC?",
+    "options": [
+      "Vice- President",
+      "President",
+      "Home Ministry",
+      "Cabinet Secretary"
+    ],
+    "correct_answer": 1,
+    "explanation": "The President is empowered to determine the number of members of the Commission and their conditions of service."
+  },
+  {
+    "id": "q42",
+    "question": "Under whose advice the President of India declares Emergency under Article 352?",
+    "options": [
+      "Chief Ministers of all states",
+      "Prime Minister",
+      "Cabinet",
+      "Council of Ministers"
+    ],
+    "correct_answer": 2,
+    "explanation": "The President can only proclaim a National Emergency after receiving a written recommendation from the Union Cabinet."
+  },
+  {
+    "id": "q43",
+    "question": "Who acts as the President of India when neither the President nor the Vice President is available?",
+    "options": [
+      "Seniormost Governor of a State",
+      "Chief Justice of India",
+      "Speaker of Lok Sabha",
+      "Auditor General of India"
+    ],
+    "correct_answer": 1,
+    "explanation": "In the absence of both President and Vice-President, the Chief Justice of India performs the duties of the President."
+  },
+  {
+    "id": "q44",
+    "question": "A proclamation of emergency issued under Article 360 must be approved by the Parliament within",
+    "options": [
+      "3 months",
+      "2 months",
+      "1 Month",
+      "6 weeks"
+    ],
+    "correct_answer": 1,
+    "explanation": "A proclamation of Financial Emergency must be approved by both Houses of Parliament within two months."
+  },
+  {
+    "id": "q45",
+    "question": "The Union Council of Ministers is appointed by the",
+    "options": [
+      "President of India according to his discretion",
+      "President of India on the advice of the Prime Minister",
+      "Prime Minister of India",
+      "Parliament"
+    ],
+    "correct_answer": 1,
+    "explanation": "Ministers are appointed by the President on the advice of the Prime Minister."
+  },
+  {
+    "id": "q46",
+    "question": "The President can proclaim emergency on the written advice of the",
+    "options": [
+      "Speaker of lok Sabha",
+      "Prime Minister",
+      "Chief Justice of India",
+      "Union Cabinet"
+    ],
+    "correct_answer": 1,
+    "explanation": "Historically and practically, the advice is communicated by the Prime Minister on behalf of the Cabinet."
+  },
+  {
+    "id": "q47",
+    "question": "The Union Council of Ministers is collectively responsible to",
+    "options": [
+      "Rajya Sabha",
+      "President",
+      "House of the People",
+      "Prime Minister"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 75(3) states that the Council of Ministers shall be collectively responsible to the House of the People (Lok Sabha)."
+  },
+  {
+    "id": "q48",
+    "question": "Article 78 of the Constitution deals with",
+    "options": [
+      "President's power to get information from the Council of Ministers.",
+      "Prime Minister's duty regarding keeping the President informed.",
+      "Emergency powers of the President",
+      "President's power to send advisory messages to the Parliament."
+    ],
+    "correct_answer": 1,
+    "explanation": "Article 78 defines the duties of the Prime Minister in furnishing information to the President."
+  },
+  {
+    "id": "q49",
+    "question": "The maximum duration for which the Vice President may officiate as the President, is",
+    "options": [
+      "1 year",
+      "6 months",
+      "4 months",
+      "9 months"
+    ],
+    "correct_answer": 1,
+    "explanation": "Since a new President must be elected within 6 months of a vacancy, the Vice-President can act as President for a maximum of 6 months."
+  },
+  {
+    "id": "q50",
+    "question": "The President's Rule in a State can be continued for a maximum period of",
+    "options": [
+      "2 years",
+      "1 year",
+      "6 months",
+      "2 1/2 years"
+    ],
+    "correct_answer": 2,
+    "explanation": "Every proclamation of President's Rule must be approved by Parliament within two months and then lasts for 6 months."
+  },
+  {
+    "id": "q51",
+    "question": "The Chairman and members of State Public Service Commission are appointed by the",
+    "options": [
+      "President",
+      "Chairman, UPSC",
+      "Governor",
+      "Prime Minister"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Governor of the state appoints the Chairman and members of the State PSC."
+  },
+  {
+    "id": "q52",
+    "question": "When a State Governor dies or resigns, who normally exercises his functions till a new Governor is appointed?",
+    "options": [
+      "Chief Justice of the High Court",
+      "Advocate General of the State",
+      "Secretary General of the Governor",
+      "A person designated by State Cabinet"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Chief Justice of the respective State High Court usually performs the duties of the Governor in case of a vacancy."
+  },
+  {
+    "id": "q53",
+    "question": "When a financial emergency is proclaimed",
+    "options": [
+      "Union budget will not be presented",
+      "Salaries and allowances of any class of employees may be reduced",
+      "Repayment of government debts will stop",
+      "Payment of salaries to public servants will be postponed"
+    ],
+    "correct_answer": 1,
+    "explanation": "During a Financial Emergency, the President may issue directions for the reduction of salaries of persons serving the Union or States."
+  },
+  {
+    "id": "q54",
+    "question": "Who appoints the Chairman of the UPSC?",
+    "options": [
+      "President",
+      "Speaker of Lok Sabha",
+      "Chief Justice of India",
+      "Prime Minister"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Chairman and other members of the UPSC are appointed by the President."
+  },
+  {
+    "id": "q55",
+    "question": "Which of the following is correct regarding the Governor of a State?",
+    "options": [
+      "All of the above",
+      "He can recommend to the President to impose President's Rule in the State.",
+      "No money bill can be introduced in the State Legislature without his prior permission.",
+      "He has the power of issuing ordinances when the legislature is not in session."
+    ],
+    "correct_answer": 0,
+    "explanation": "All these are constitutional powers vested in the Governor of a state."
+  },
+  {
+    "id": "q56",
+    "question": "If the President wants to resign from office, he may do so by writing to the",
+    "options": [
+      "Chief Justice of India",
+      "Speaker of Lok Sabha",
+      "Prime Minister",
+      "Vice- President"
+    ],
+    "correct_answer": 3,
+    "explanation": "The President's resignation letter is addressed to the Vice-President of India."
+  },
+  {
+    "id": "q57",
+    "question": "Is the Prime Minister bound to advise is sought?",
+    "options": [
+      "Yes, if the Council of Ministers so desires",
+      "Yes",
+      "No",
+      "It is discretionary"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Prime Minister is constitutionally bound to provide advice and information when requested by the President."
+  },
+  {
+    "id": "q58",
+    "question": "The five year term of the President is calculated from the",
+    "options": [
+      "First day of the month following the month he assumes charge",
+      "Date of his election result",
+      "Day he assumes charge",
+      "First day of the month he assumes charge"
+    ],
+    "correct_answer": 2,
+    "explanation": "The President holds office for a term of five years from the date on which he enters upon his office."
+  },
+  {
+    "id": "q59",
+    "question": "Who is the ex- officio Chairman of the Council of States?",
+    "options": [
+      "Vice- President",
+      "Leader of the opposition",
+      "President",
+      "Speaker"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha (Council of States)."
+  },
+  {
+    "id": "q60",
+    "question": "Under which Article of the Constitution is the President's rule promulgated on any state in India?",
+    "options": [
+      "326",
+      "370",
+      "380",
+      "356"
+    ],
+    "correct_answer": 3,
+    "explanation": "Article 356 provides for the imposition of President's Rule in a state in case of failure of constitutional machinery."
+  },
+  {
+    "id": "q61",
+    "question": "At a time, President's rule can be imposed on a state for a maximum period of",
+    "options": [
+      "1 year",
+      "5 years",
+      "2 years",
+      "4 years"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beyond one year, President's rule can only be extended under special circumstances (like Emergency or Election Commission certification)."
+  },
+  {
+    "id": "q62",
+    "question": "The Chairman of the Planning Commission in India is the",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Minister of Planning",
+      "Finance Minister"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Prime Minister was the ex-officio Chairman of the Planning Commission (and now NITI Aayog)."
+  },
+  {
+    "id": "q63",
+    "question": "When Parliament is not in session, the President can promulgate an ordinance which is to be ratified by the Parliament within",
+    "options": [
+      "6 weeks from the reassembly of Parliament",
+      "6 months from the reassembly of the Parliament",
+      "6 weeks from the date of issue of ordinance.",
+      "3 months from the date of issue of the ordinance."
+    ],
+    "correct_answer": 0,
+    "explanation": "An ordinance must be laid before both Houses of Parliament and shall cease to operate at the expiration of six weeks from the reassembly of Parliament."
+  },
+  {
+    "id": "q64",
+    "question": "The President of India is elected by an electoral college comprising of",
+    "options": [
+      "Elected members of Lok sabha and state Legislative Assemblies.",
+      "Elected member of both Houses of Parliament and State Legislative Assembly",
+      "Elected members of both Houses of parliament.",
+      "Elected member of State Legislative Assemblies"
+    ],
+    "correct_answer": 1,
+    "explanation": "The electoral college consists of elected members of both Houses of Parliament and the elected members of the Legislative Assemblies of States."
+  },
+  {
+    "id": "q65",
+    "question": "If the office of the President of India falls vacant, within what time should the next president be elected?",
+    "options": [
+      "Within 2 months",
+      "Within 1 year",
+      "Within 6 months",
+      "immediately"
+    ],
+    "correct_answer": 2,
+    "explanation": "An election to fill the vacancy must be held no later than six months from the date of the vacancy."
+  },
+  {
+    "id": "q66",
+    "question": "The President can proclaim a state of emergency in case of",
+    "options": [
+      "All of the above",
+      "Threat to financial stability of the country.",
+      "External aggression or internal disturbances.",
+      "Failure of constitutional machinery in a state."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Constitution provides for National Emergency (Art 352), State Emergency (Art 356), and Financial Emergency (Art 360)."
+  },
+  {
+    "id": "q67",
+    "question": "In the election of the President, the value of the vote of the Lok Sabha members",
+    "options": [
+      "Differs according to geographical size.",
+      "None of these",
+      "Differs according to the number of votes a member represents.",
+      "is same"
+    ],
+    "correct_answer": 2,
+    "explanation": "The value of an MP's vote is determined by dividing the total value of votes of all state MLAs by the total number of elected MPs."
+  },
+  {
+    "id": "q68",
+    "question": "The Indian President is",
+    "options": [
+      "None of these",
+      "Titular executive",
+      "Real executive",
+      "Real/Titular executive"
+    ],
+    "correct_answer": 1,
+    "explanation": "The President is the nominal/titular head (De Jure), while the Prime Minister is the real head (De Facto)."
+  },
+  {
+    "id": "q69",
+    "question": "The minimum age required for becoming the prime Minister of India is",
+    "options": [
+      "30 years",
+      "35 years",
+      "40 years",
+      "25 years"
+    ],
+    "correct_answer": 3,
+    "explanation": "Since a member of Lok Sabha must be 25 years old, and the PM can be from Lok Sabha, the minimum age is 25."
+  },
+  {
+    "id": "q70",
+    "question": "The President may for violation of the Constitution be removed from the office by",
+    "options": [
+      "The Prime Minister",
+      "The Electoral College",
+      "Impeachment",
+      "A no- confidence vote"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 61 provides the procedure for impeachment of the President for 'violation of the Constitution'."
+  },
+  {
+    "id": "q71",
+    "question": "In which of the following situations does the President act in his own discretion?",
+    "options": [
+      "In returning a proposal for reconsideration",
+      "None of the Above",
+      "In appointing the Prime Minister",
+      "Both of these"
+    ],
+    "correct_answer": 0,
+    "explanation": "The President can send back the advice of the Council of Ministers once for reconsideration."
+  },
+  {
+    "id": "q72",
+    "question": "The Prime Minister, Union Cabinet Minister, Chief Minister and Council of Ministers are all members of",
+    "options": [
+      "National Development Council",
+      "Regional Council",
+      "Planning Commission",
+      "Zonal Council"
+    ],
+    "correct_answer": 0,
+    "explanation": "The NDC is presided over by the Prime Minister and includes all Union Cabinet Ministers and Chief Ministers."
+  },
+  {
+    "id": "q73",
+    "question": "The President's Rule in a state means that the state is ruled by",
+    "options": [
+      "A caretaker government",
+      "The Chief Minister nominated by the President",
+      "The Governor of the State",
+      "The President directly"
+    ],
+    "correct_answer": 2,
+    "explanation": "Under President's Rule, the Governor carries on the administration of the state on behalf of the President."
+  },
+  {
+    "id": "q74",
+    "question": "The Chief Minister of a Union Territory whenever such a set up exists, is appointed by",
+    "options": [
+      "The Lt. Governor",
+      "The majority party",
+      "The President",
+      "The Prime Minister"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Lt. Governor administers the oath and formally appoints the CM in Union Territories."
+  },
+  {
+    "id": "q75",
+    "question": "Under what article of the Constitution of India can the President take over the administration of a state?",
+    "options": [
+      "Art 352",
+      "Art 343",
+      "Art 356",
+      "Art 83"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 356 is the provision for President's Rule in states."
+  },
+  {
+    "id": "q76",
+    "question": "The President can make laws through ordinances",
+    "options": [
+      "Only on subjects in the concurrent list",
+      "Under no circumstances",
+      "Even when Parliament is in session.",
+      "During the recess of the Parliament"
+    ],
+    "correct_answer": 3,
+    "explanation": "Article 123 empowers the President to promulgate ordinances when either House of Parliament is not in session."
+  },
+  {
+    "id": "q77",
+    "question": "Which of the following qualification is not essential for a person to become the Vice- President?",
+    "options": [
+      "He must be an Indian.",
+      "He must be qualified for Rajya Sabha.",
+      "He must be at least 35 years.",
+      "He must be a graduate."
+    ],
+    "correct_answer": 3,
+    "explanation": "The Constitution does not prescribe any specific educational qualification (like being a graduate) for the Vice-President."
+  },
+  {
+    "id": "q78",
+    "question": "How many types of Emergency have been visualised in the Constitution of India?",
+    "options": [
+      "Four",
+      "Three",
+      "One",
+      "Two"
+    ],
+    "correct_answer": 1,
+    "explanation": "The three types are National Emergency, State Emergency (President's Rule), and Financial Emergency."
+  },
+  {
+    "id": "q79",
+    "question": "The impeachment proceedings against the Vice- President can be initiated",
+    "options": [
+      "Only in Lok Sabha",
+      "In neither Hosue of Parliament",
+      "In either House of Parliament",
+      "Only in Rajya Sabha"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Vice-President can be removed by a resolution of the Rajya Sabha passed by an effective majority and agreed to by the Lok Sabha."
+  },
+  {
+    "id": "q80",
+    "question": "Who appoints the Governor of Jammu and Kashmir?",
+    "options": [
+      "Chief Minister of the State",
+      "Prime Minister",
+      "Chief Justice",
+      "President"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Governor (now Lt. Governor) of J&K is appointed by the President of India."
+  },
+  {
+    "id": "q81",
+    "question": "The President of India can be removed from his office by the",
+    "options": [
+      "Parliament",
+      "Chief Justice of India",
+      "Prime Minister",
+      "Lok Sabha"
+    ],
+    "correct_answer": 0,
+    "explanation": "Removal of the President is done through the process of impeachment by the Parliament."
+  },
+  {
+    "id": "q82",
+    "question": "If the President returns a Bill and Parliament passes it again in original form, then the President",
+    "options": [
+      "Can seek Supreme Court opinion",
+      "Gives assent to the bill",
+      "Can return it again",
+      "Can ask for a referendum"
+    ],
+    "correct_answer": 1,
+    "explanation": "If a bill is passed again by the Houses with or without amendment and presented to the President, the President shall not withhold assent."
+  },
+  {
+    "id": "q83",
+    "question": "If a Minister loses a no- confidence motion, then",
+    "options": [
+      "Lok Sabha is dissolved",
+      "Only PM and that Minister resigns.",
+      "The whole Council of Ministers resigns",
+      "The Minister resigns"
+    ],
+    "correct_answer": 2,
+    "explanation": "Collective responsibility means that a vote of no-confidence against one minister is considered a vote against the entire Council of Ministers."
+  },
+  {
+    "id": "q84",
+    "question": "The only instance when the President of India exercised his power of veto related to the",
+    "options": [
+      "Indian Post Office (Amendment Bill)",
+      "Dowry Prohibition Bill",
+      "Hindu Code Bill",
+      "PEPSU Appropriation Bill"
+    ],
+    "correct_answer": 0,
+    "explanation": "President Zail Singh exercised a pocket veto in 1986 regarding the Indian Post Office (Amendment) Bill."
+  },
+  {
+    "id": "q85",
+    "question": "The control of the preparation of electoral rolls for parliament and legislature vests with the",
+    "options": [
+      "President",
+      "Election Commission",
+      "Cabinet",
+      "Prime Minister"
+    ],
+    "correct_answer": 1,
+    "explanation": "Article 324 vests the superintendence, direction, and control of elections (including electoral rolls) in the Election Commission."
+  },
+  {
+    "id": "q86",
+    "question": "What is contained in the tenth schedule of the constitution?",
+    "options": [
+      "Languages",
+      "Forms of oath",
+      "Laws exempt from court challenge",
+      "Provision regarding disqualification on grounds of defection"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Tenth Schedule was added by the 52nd Amendment Act, 1985, to deal with anti-defection."
+  },
+  {
+    "id": "q87",
+    "question": "The Election commission holds election for",
+    "options": [
+      "Parliament, State Legislature, President and Vice-President",
+      "Parliament, Assemblies and State Council",
+      "The parliament",
+      "The parliament and Assemblies"
+    ],
+    "correct_answer": 0,
+    "explanation": "The ECI conducts elections for the Union Parliament, State Legislatures, and the offices of President and Vice-President."
+  },
+  {
+    "id": "q88",
+    "question": "For Election to the lok sabha, a nomination paper can be field by",
+    "options": [
+      "Any citizen of India",
+      "Any citizen whose name appears in the electoral roll.",
+      "Anyone residing in India",
+      "A resident of the Constituency"
+    ],
+    "correct_answer": 1,
+    "explanation": "A person must be a registered voter to file a nomination for Lok Sabha elections."
+  },
+  {
+    "id": "q89",
+    "question": "In India, political parties are given recognition by",
+    "options": [
+      "Election Commission",
+      "Speaker of Lok Sabha",
+      "President",
+      "Law Commission"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Election Commission of India recognizes political parties as National or State parties."
+  },
+  {
+    "id": "q90",
+    "question": "The Vice President is elected by an Electoral College consisting of members of",
+    "options": [
+      "Both Houses and state legislative",
+      "Both Houses of Parliament",
+      "Lok Sabha",
+      "Rajya Sabha"
+    ],
+    "correct_answer": 1,
+    "explanation": "The electoral college for the Vice-President consists of members of both Houses of Parliament (both elected and nominated)."
+  },
+  {
+    "id": "q91",
+    "question": "The election commission does not conduct the elections to the",
+    "options": [
+      "Lok Sabha",
+      "President's election",
+      "Rajya Sabha",
+      "Local Bodies"
+    ],
+    "correct_answer": 3,
+    "explanation": "Elections to Local Bodies (Panchayats and Municipalities) are conducted by the State Election Commissions, not the ECI."
+  },
+  {
+    "id": "q92",
+    "question": "The maximum age prescribed for election as president is",
+    "options": [
+      "No such Limit",
+      "62 years",
+      "58 years",
+      "60 years"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Constitution specifies a minimum age of 35 but does not prescribe any upper age limit for the President."
+  },
+  {
+    "id": "q93",
+    "question": "The power to decide an election petition is vested in the",
+    "options": [
+      "High Court",
+      "Election Commission",
+      "Parliament",
+      "Supreme Court"
+    ],
+    "correct_answer": 1,
+    "explanation": "Petitions regarding the election of the President/Vice-President go to the Supreme Court, while others go through the ECI/High Courts."
+  },
+  {
+    "id": "q94",
+    "question": "To elect the President of India, which election procedure is used?",
+    "options": [
+      "System of proportional representation by means of single transferable vote",
+      "Secondary voting system",
+      "Proportional representation through list system",
+      "Collective Voting system"
+    ],
+    "correct_answer": 0,
+    "explanation": "Article 54 and 55 prescribe the single transferable vote system for the Presidential election."
+  },
+  {
+    "id": "q95",
+    "question": "In which year were the first general election held in India?",
+    "options": [
+      "1950-51",
+      "1948-49",
+      "1951-52",
+      "1947-48"
+    ],
+    "correct_answer": 2,
+    "explanation": "India's first general elections were held between October 1951 and February 1952."
+  },
+  {
+    "id": "q96",
+    "question": "Election to the house of the people and the Legislative Assemblies are conducted on the basis of",
+    "options": [
+      "Single Transferable vote",
+      "Proportional Representation",
+      "Limited sufferage",
+      "Adult Franchise"
+    ],
+    "correct_answer": 3,
+    "explanation": "Universal Adult Franchise (Article 326) allows every citizen above 18 to vote."
+  },
+  {
+    "id": "q97",
+    "question": "Who appoint the Chief Election Commissioner of India?",
+    "options": [
+      "Chief Justice of India",
+      "President",
+      "Prime Minister",
+      "Parliament"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Chief Election Commissioner and other Election Commissioners are appointed by the President."
+  },
+  {
+    "id": "q98",
+    "question": "Which among the following is not a part of the electoral reforms?",
+    "options": [
+      "Installation of electronic voting machines",
+      "Appointment of election Commissioner",
+      "Registration of Political parties",
+      "Disqualifying the offenders"
+    ],
+    "correct_answer": 0,
+    "explanation": "While EVMs are a technical change in the voting process, the others are structural/legal electoral reforms."
+  },
+  {
+    "id": "q99",
+    "question": "Recognition to a political party is accorded by",
+    "options": [
+      "The Election Commission",
+      "A Committee of Whips",
+      "The ministry of parliament Affairs",
+      "The speaker"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Election Commission of India has the power to recognize parties and allot symbols."
+  },
+  {
+    "id": "q100",
+    "question": "The Chief Minister of a state in India is not eligible to vote in the Presidential election if",
+    "options": [
+      "He is a member of the Upper House of the State Legislature",
+      "He is a caretaker Chief Minister",
+      "He himself is a candidate",
+      "He is yet to prove his majority"
+    ],
+    "correct_answer": 0,
+    "explanation": "Only elected members of the Legislative Assembly (Lower House) can vote. Members of the Legislative Council (Upper House) are excluded."
+  },
+  {
+    "id": "q101",
+    "question": "A federal structure for India was first put forward by the:",
+    "options": ["Act of 1909", "Act of 1919", "Act of 1935", "Act of 1947"],
+    "correct_answer": 2,
+    "explanation": "The Government of India Act 1935 articulated the goal of establishing a loose federal structure intended to unite princely states and British India at the centre."
+  },
+  {
+    "id": "q102",
+    "question": "Which of the following exercised the most profound influence in framing the Indian Constitution?",
+    "options": ["British Constitution", "US Constitution", "Irish Constitution", "The Government of India Act, 1935"],
+    "correct_answer": 3,
+    "explanation": "The Government of India Act, 1935 is considered to have exercised the most profound influence in framing the Indian Constitution."
+  },
+  {
+    "id": "q103",
+    "question": "The system of judicial review originated in",
+    "options": ["India", "Germany", "Russia", "U.S.A."],
+    "correct_answer": 3,
+    "explanation": "The system of judicial review originated in the U.S.A.."
+  },
+  {
+    "id": "q104",
+    "question": "What was the basis for constituting the Constituent Assembly of India?",
+    "options": [
+      "The Re-answer of the Indian National Congress",
+      "The Cabinet Mission Plan, 1946",
+      "The Indian Independence Act, 1947",
+      "The re-answers of the Provincial/State Legislatures of the Dominion of India"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Constituent Assembly of India was set up under the Cabinet Mission Plan, 1946."
+  },
+  {
+    "id": "q105",
+    "question": "How does the Constitution of India describe India as?",
+    "options": ["A federation of States and Union Territories", "A Union of States", "Bharatvarsh", "A federated nation"],
+    "correct_answer": 1,
+    "explanation": "The Constitution of India describes India as a Union of States."
+  },
+  {
+    "id": "q106",
+    "question": "Preventive detention means–",
+    "options": ["detention for interrogation", "detention after interrogation", "detention without interrogation", "detention for cognizable offence"],
+    "correct_answer": 2,
+    "explanation": "Preventive detention refers specifically to detention without interrogation."
+  },
+  {
+    "id": "q107",
+    "question": "From the Constitution of which country the provision of Federation was borrowed while framing the Constitution of India?",
+    "options": ["USA", "UK", "Canada", "Switzerland"],
+    "correct_answer": 2,
+    "explanation": "The provision of Federation was borrowed from the Constitution of Canada."
+  },
+  {
+    "id": "q108",
+    "question": "Who among the following was not a member of the Constituent Assembly established in July 1946?",
+    "options": ["Dr. Rajendra Prasad", "K M Munshi", "Mahatma Gandhi", "Abul Kalam Azad"],
+    "correct_answer": 2,
+    "explanation": "Mahatma Gandhi was not a member of the Constituent Assembly established in July 1946."
+  },
+  {
+    "id": "q109",
+    "question": "Who was the Chairman of the Drafting Committee of the Constitution?",
+    "options": ["J. B. Kripalani", "Rajendra Prasad", "J. L. Nehru", "B. R. Ambedkar"],
+    "correct_answer": 3,
+    "explanation": "Dr. B. R. Ambedkar served as the Chairman of the Drafting Committee."
+  },
+  {
+    "id": "q110",
+    "question": "Who was the Constitutional Advisor to the Constituent Assembly of India?",
+    "options": ["Dr. Rajendra Prasad", "Dr. B. R. Ambedkar", "Sir B.N. Rao", "Shri K.M. Munshi"],
+    "correct_answer": 2,
+    "explanation": "Sir B.N. Rao was the Constitutional Advisor to the Constituent Assembly."
+  },
+  {
+    "id": "q111",
+    "question": "Which of the following countries has introduced “direct democracy”?",
+    "options": ["Russia", "India", "France", "Switzerland"],
+    "correct_answer": 3,
+    "explanation": "Switzerland is known for using a system of direct democracy."
+  },
+  {
+    "id": "q112",
+    "question": "Who was the President of the Republic of India who consistently described Indian Secularism as ‘Sarva Dharma Samabhav’?",
+    "options": ["Dr. S. Radhakrishnan", "Dr. Zakir Hussain", "Dr. Rajendra Prasad", "Gaini Zail Singh"],
+    "correct_answer": 0,
+    "explanation": "Dr. S. Radhakrishnan consistently described Indian Secularism as ‘Sarva Dharma Samabhav’."
+  },
+  {
+    "id": "q113",
+    "question": "Which of the following countries have an Unwritten Constitution?",
+    "options": ["U.S.A", "U.K.", "Pakistan", "India"],
+    "correct_answer": 1,
+    "explanation": "The U.K. is a country characterized by an unwritten constitution."
+  },
+  {
+    "id": "q114",
+    "question": "The Constitution of India was adopted on",
+    "options": ["26 January, 1950", "26 January, 1949", "26 November, 1949", "31 December, 1949"],
+    "correct_answer": 2,
+    "explanation": "The Constitution of India was adopted on 26 November, 1949."
+  },
+  {
+    "id": "q115",
+    "question": "Which of the following is a feature to both the Indian Federation and the American Federation?",
+    "options": ["A single citizenship", "Dual judiciary", "Three Lists in the Constitution", "A Federal Supreme Court to interpret the Constitution"],
+    "correct_answer": 3,
+    "explanation": "A Federal Supreme Court to interpret the Constitution is a feature common to both the Indian and American Federations."
+  },
+  {
+    "id": "q116",
+    "question": "Who among the following was the President of the Constituent Assembly of India?",
+    "options": ["Dr. Rajendra Prasad", "Jawaharlal Nehru", "M.A. Jinnah", "Lal Bahadur Shastri"],
+    "correct_answer": 0,
+    "explanation": "Dr. Rajendra Prasad was the President of the Constituent Assembly."
+  },
+  {
+    "id": "q117",
+    "question": "The convention that “once a speaker always a speaker” is followed in",
+    "options": ["UK", "USA", "France", "India"],
+    "correct_answer": 0,
+    "explanation": "This convention regarding the Speaker is followed in the UK."
+  },
+  {
+    "id": "q118",
+    "question": "Indian Penal Code came into operation in",
+    "options": ["1858", "1860", "1859", "1862"],
+    "correct_answer": 3,
+    "explanation": "The Indian Penal Code came into operation in 1862."
+  },
+  {
+    "id": "q119",
+    "question": "When was our National Anthem first sung and where?",
+    "options": [
+      "24th January, 1950 in Allahabad",
+      "24th January, 1950 in Delhi",
+      "26th December, 1942 in Calcutta",
+      "27th December, 1911 in Calcutta"
+    ],
+    "correct_answer": 3,
+    "explanation": "The National Anthem was first sung on 27th December, 1911 in Calcutta."
+  },
+  {
+    "id": "q120",
+    "question": "The Constitution of India came into force on",
+    "options": ["26 January, 1950", "26 January, 1952", "15 August, 1948", "26 November, 1949"],
+    "correct_answer": 0,
+    "explanation": "The Constitution of India officially came into force on 26 January, 1950."
+  },
+  {
+    "id": "q121",
+    "question": "The term ‘Caste’ was derived from",
+    "options": ["Portuguese", "Dutch", "German", "English"],
+    "correct_answer": 0,
+    "explanation": "The term ‘Caste’ is derived from Portuguese."
+  },
+  {
+    "id": "q122",
+    "question": "The two forms of democracy are",
+    "options": ["Parliamentary and Presidential", "Direct and Indirect", "Monarchical and Republican", "Parliamentary and King"],
+    "correct_answer": 1,
+    "explanation": "The two primary forms of democracy are direct and indirect."
+  },
+  {
+    "id": "q123",
+    "question": "Which was described by Dr. B.R. Ambedkar as the ‘heart and soul’ of the Constitution?",
+    "options": ["Right to Equality", "Right against Exploitation", "Right to Constitutional Remedies", "Right to Freedom of Religion"],
+    "correct_answer": 2,
+    "explanation": "Dr. Ambedkar described the Right to Constitutional Remedies as the ‘heart and soul’ of the Constitution."
+  },
+  {
+    "id": "q124",
+    "question": "In India, the concept of single citizenship is adopted from",
+    "options": ["England", "U.S.A.", "Canada", "France"],
+    "correct_answer": 0,
+    "explanation": "The concept of single citizenship in India was adopted from England."
+  },
+  {
+    "id": "q125",
+    "question": "The Drafting of the Constitution was completed on:",
+    "options": ["26th January, 1950", "26th December, 1949", "26th November, 1949", "30th November, 1949"],
+    "correct_answer": 2,
+    "explanation": "The drafting process was completed on 26th November, 1949."
+  },
+  {
+    "id": "q126",
+    "question": "The method of Impeachment of the President of India is adopted from",
+    "options": ["U.S.A.", "U.K.", "U.S.S.R.", "France"],
+    "correct_answer": 0,
+    "explanation": "The method of impeachment for the President was adopted from the U.S.A.."
+  },
+  {
+    "id": "q127",
+    "question": "The concept of Constitution first originated in",
+    "options": ["Switzerland", "Britain", "U.S.A.", "Japan"],
+    "correct_answer": 1,
+    "explanation": "The concept of a constitution first originated in Britain."
+  },
+  {
+    "id": "q128",
+    "question": "The provisional President of the Constituent Assembly was",
+    "options": ["Dr. Sachchidananda Sinha", "Dr. Rajendra Prasad", "Dr. B.R. Ambedkar", "Pt. Jawaharlal Nehru"],
+    "correct_answer": 0,
+    "explanation": "Dr. Sachchidananda Sinha served as the provisional President of the assembly."
+  },
+  {
+    "id": "q129",
+    "question": "“Persons may change but rules should not change” is the principle of",
+    "options": ["Absolute Monarchy", "Constitutional Government", "Unwritten Constitution", "Republic"],
+    "correct_answer": 1,
+    "explanation": "This principle is a hallmark of a Constitutional Government."
+  },
+  {
+    "id": "q130",
+    "question": "The Constituent Assembly of India was set up under the",
+    "options": ["Simon Commission proposals", "Cripps proposals", "Mountbatten plan", "Cabinet Mission plan"],
+    "correct_answer": 3,
+    "explanation": "The assembly was established according to the Cabinet Mission Plan."
+  },
+  {
+    "id": "q131",
+    "question": "The two basic principles of the liberal theory of democracy as emphasised by John Locke, are",
+    "options": [
+      "Universal Adult Franchise and the Right to Property",
+      "Representative Democracy and Workers’ Rights",
+      "Popular Sovereignty and constitutional government",
+      "Women suffrage and popular sovereignty"
+    ],
+    "correct_answer": 2,
+    "explanation": "John Locke emphasized popular sovereignty and constitutional government."
+  },
+  {
+    "id": "q132",
+    "question": "Direct Democracy is a system of Government in which",
+    "options": [
+      "People choose the Civil Servants",
+      "People directly elect their Representatives.",
+      "People take part directly in the policy making and administration of the country.",
+      "Government officials consult people on various appointments"
+    ],
+    "correct_answer": 2,
+    "explanation": "In direct democracy, people participate directly in policy-making and administration."
+  },
+  {
+    "id": "q133",
+    "question": "In India legal sovereignty is vested with",
+    "options": ["the President", "the Judiciary", "the Cabinet", "the Constitution"],
+    "correct_answer": 3,
+    "explanation": "Legal sovereignty in India is vested in the Constitution."
+  },
+  {
+    "id": "q134",
+    "question": "What is meant when the Constitution declares India a “Secular State”?",
+    "options": [
+      "Religious worship is not allowed",
+      "Religions are patronised by the State",
+      "The state regards religions as a private affairs of the citizen and does not discriminate on this basis",
+      "None of these"
+    ],
+    "correct_answer": 2,
+    "explanation": "Secularism in the Indian context means the state treats religion as a private affair and does not discriminate."
+  },
+  {
+    "id": "q135",
+    "question": "January 26 selected as the date for the inauguration of the Constitution, because",
+    "options": [
+      "it was considered to be an auspicious day",
+      "on that day the Quit India Movement was started in 1942",
+      "the Congress had observed it as the Independence Day in 1930",
+      "None of these"
+    ],
+    "correct_answer": 2,
+    "explanation": "The date was chosen because the Congress had observed it as Independence Day in 1930."
+  },
+  {
+    "id": "q136",
+    "question": "The Unitary System of Government possesses which of the following advantages?",
+    "options": [
+      "Greater adaptability",
+      "Strong State",
+      "Greater participation by the people",
+      "Lesser Chances of authoritarianism"
+    ],
+    "correct_answer": 1,
+    "explanation": "A major advantage of a Unitary System is a strong state."
+  },
+  {
+    "id": "q137",
+    "question": "Who is considered the Architect of the Indian Constitution?",
+    "options": ["Mahatma Gandhi", "B.R. Ambedkar", "Jawaharlal Nehru", "B.N. Rao"],
+    "correct_answer": 1,
+    "explanation": "Dr. B.R. Ambedkar is widely considered the Architect of the Indian Constitution."
+  },
+  {
+    "id": "q138",
+    "question": "The mind and ideals of the framers of Constitution are reflected in the",
+    "options": ["Preamble", "Fundamental Duties", "Fundamental Rights", "Directive Principles of State Policy"],
+    "correct_answer": 0,
+    "explanation": "The Preamble reflects the mind and ideals of the framers."
+  },
+  {
+    "id": "q139",
+    "question": "The state possesses",
+    "options": [
+      "only external sovereignty",
+      "only internal sovereignty",
+      "both internal and external sovereignty",
+      "neither external nor internal sovereignty"
+    ],
+    "correct_answer": 2,
+    "explanation": "A state possesses both internal and external sovereignty."
+  },
+  {
+    "id": "q140",
+    "question": "The Government of India Act, 1935 was based on:",
+    "options": ["Simon Commission", "Lord Curzon Commission", "Dimitrov Thesis", "Lord Clive’s report"],
+    "correct_answer": 0,
+    "explanation": "The Government of India Act, 1935 was based on the Simon Commission."
+  },
+  {
+    "id": "q141",
+    "question": "Who described the Government of India Act, 1935 as a new charter of bondage?",
+    "options": ["Mahatma Gandhi", "Rajendra Prasad", "Pt. Jawaharlal Nehru", "B.R. Ambedkar"],
+    "correct_answer": 2,
+    "explanation": "Jawaharlal Nehru described the 1935 Act as a 'new charter of bondage'."
+  },
+  {
+    "id": "q142",
+    "question": "Who is custodian of the Indian Constitution?",
+    "options": ["President of India", "Chief Justice of India", "Prime Minister of India", "Chairman of Rajya Sabha"],
+    "correct_answer": 1,
+    "explanation": "The Chief Justice of India (the Supreme Court) is the custodian of the Constitution."
+  },
+  {
+    "id": "q143",
+    "question": "Which is the most important system in Democracy?",
+    "options": ["Social", "Political", "Economic", "Governmental"],
+    "correct_answer": 1,
+    "explanation": "The political system is central to democracy."
+  },
+  {
+    "id": "q144",
+    "question": "Where do we find the ideals of Indian democracy in the Constitution?",
+    "options": ["The Preamble", "Part III", "Part IV", "Part I"],
+    "correct_answer": 0,
+    "explanation": "The Preamble contains the core ideals of Indian democracy."
+  },
+  {
+    "id": "q145",
+    "question": "When was the first Central Legislative Assembly constituted?",
+    "options": ["1922", "1923", "1921", "1920"],
+    "correct_answer": 2,
+    "explanation": "The first Central Legislative Assembly was constituted in 1921."
+  },
+  {
+    "id": "q146",
+    "question": "The concept of “Rule of Law” is a special feature of constitutional system of",
+    "options": ["Britain", "U.S.A.", "France", "Switzerland"],
+    "correct_answer": 0,
+    "explanation": "The 'Rule of Law' is a key feature of the British constitutional system."
+  },
+  {
+    "id": "q147",
+    "question": "The method of amending the Constitution by popular veto is found in",
+    "options": ["Britain", "Switzerland", "Russia", "India"],
+    "correct_answer": 1,
+    "explanation": "Switzerland uses popular veto as a method for constitutional amendment."
+  },
+  {
+    "id": "q148",
+    "question": "Which of the following is the inalienable attribute of the parliamentary system of government?",
+    "options": [
+      "Flexibility of the Constitution",
+      "Fusion of Executive and Legislature",
+      "Judicial Supremacy",
+      "Parliamentary Sovereignty"
+    ],
+    "correct_answer": 1,
+    "explanation": "The fusion of Executive and Legislature is an inalienable attribute of the parliamentary system."
+  },
+  {
+    "id": "q149",
+    "question": "Grassroots democracy is related to",
+    "options": [
+      "Devolution of powers",
+      "Decentralisation of powers",
+      "Panchayati Raj System",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Grassroots democracy involves devolution, decentralization, and the Panchayati Raj System."
+  },
+  {
+    "id": "q150",
+    "question": "Democratic Socialism aims at",
+    "options": [
+      "bringing about Socialism through peaceful means",
+      "bringing about Socialism through violent and peaceful means",
+      "bringing about Socialism through violent means",
+      "bringing about Socialism through democratic means"
+    ],
+    "correct_answer": 3,
+    "explanation": "Democratic Socialism seeks to achieve socialism through democratic means."
+  },
+  {
+    "id": "q151",
+    "question": "Which one of the following judgements stated that ‘Secularism’ and ‘Federalism’ are the basic features of the Indian Constitution?",
+    "options": [
+      "Keshavananda Bharati case",
+      "S.R. Bommai case",
+      "Indira Sawhney case",
+      "Minerva Mills case"
+    ],
+    "correct_answer": 1,
+    "explanation": "The S.R. Bommai case judgement affirmed these as basic features."
+  },
+  {
+    "id": "q152",
+    "question": "Who among the following was not a member of the Drafting Committee of Indian Constitution?",
+    "options": ["B. R. Ambedkar", "Alladi Krishnaswamy", "Rajendra Prasad", "Gopalachari Ayyangar"],
+    "correct_answer": 2,
+    "explanation": "Dr. Rajendra Prasad was the President of the assembly, not a member of the Drafting Committee."
+  },
+  {
+    "id": "q153",
+    "question": "Autocracy means ______",
+    "options": [
+      "Rule by few",
+      "Rule by King",
+      "Absolute rule by one",
+      "Rule by the representatives of the People"
+    ],
+    "correct_answer": 2,
+    "explanation": "Autocracy is absolute rule by one individual."
+  },
+  {
+    "id": "q154",
+    "question": "Constitutional Monarchy means:",
+    "options": [
+      "The King writes the constitution",
+      "The King interprets the constitution",
+      "The King exercises power granted by constitution",
+      "The King is elected by the people"
+    ],
+    "correct_answer": 2,
+    "explanation": "In this system, the monarch's powers are defined and limited by the constitution."
+  },
+  {
+    "id": "q155",
+    "question": "The idea of parliamentary form of government is adapted from",
+    "options": ["US", "UK", "Ireland", "USSR"],
+    "correct_answer": 1,
+    "explanation": "India's parliamentary system is adapted from the UK."
+  },
+  {
+    "id": "q156",
+    "question": "Who among the following proposed the suggestion for a Constituent Assembly first in 1935?",
+    "options": ["Nehru", "Gandhi", "J.P. Narayan", "M. N. Roy"],
+    "correct_answer": 3,
+    "explanation": "M. N. Roy was the first to suggest a Constituent Assembly in 1935."
+  },
+  {
+    "id": "q157",
+    "question": "Name of the country from which the constitutional features of procedures for amendment was borrowed by India.",
+    "options": ["Britain", "America", "South Africa", "Germany"],
+    "correct_answer": 2,
+    "explanation": "The amendment procedure was borrowed from South Africa."
+  },
+  {
+    "id": "q158",
+    "question": "In which of the following Acts the territorial division of governance in India was done?",
+    "options": [
+      "Government of India Act, 1858",
+      "Indian Councils Act, 1861",
+      "Indian Councils Act, 1892",
+      "Government of India Act, 1861"
+    ],
+    "correct_answer": 0,
+    "explanation": "Territorial division occurred under the Government of India Act, 1858."
+  },
+  {
+    "id": "q159",
+    "question": "By which of the following Act the system of Dyarchy was introduced at the centre?",
+    "options": ["1909", "1919", "1935", "1947"],
+    "correct_answer": 2,
+    "explanation": "The 1935 Act introduced Dyarchy at the central level."
+  },
+  {
+    "id": "q160",
+    "question": "The Constitution __________.",
+    "options": [
+      "is silent on the President’s re-election to the office.",
+      "allows re-election of a person to the President’s post",
+      "restricts a person to remain President for only two terms.",
+      "has been amended to allow a person only one term as President."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Indian Constitution allows for the re-election of a person to the office of President."
+  },
+  {
+    "id": "q161",
+    "question": "Which of the following Act introduced separate electorates (communal representation) for Muslims?",
+    "options": [
+      "1892 Act",
+      "Act of 1909",
+      "Reforms of 1919",
+      "Government of India Act of 1935"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Act of 1909 introduced separate electorates for Muslims."
+  },
+  {
+    "id": "q162",
+    "question": "Which among the following writs comes into the category of public litigation petition before High Court or Supreme Court?",
+    "options": [
+      "a challenge to elections of the office-bearers of a political party",
+      "against political interference",
+      "against the decision of Lower Court",
+      "against a general topic"
+    ],
+    "correct_answer": 3,
+    "explanation": "Public Interest Litigation (PIL) is generally filed against a general topic that affects the public at large rather than a specific private dispute."
+  },
+  {
+    "id": "q163",
+    "question": "India is considered as a ‘Republic’ mainly because:",
+    "options": [
+      "the head of the State is elected.",
+      "it gained independence on 15th August 1947",
+      "it has its own written constitution",
+      "it is having a Parliamentary form of Government"
+    ],
+    "correct_answer": 0,
+    "explanation": "A Republic is a state in which supreme power is held by the people and their elected representatives, and which has an elected or nominated president rather than a monarch."
+  },
+  {
+    "id": "q164",
+    "question": "What was the exact constitutional position of the Indian Republic when the Constitution was brought into force with effect from 26th January, 1950?",
+    "options": [
+      "A Democratic Republic",
+      "A Sovereign Democratic Republic",
+      "A Sovereign Secular Democratic Republic",
+      "A Sovereign Secular Socialist Democratic Republic"
+    ],
+    "correct_answer": 1,
+    "explanation": "On January 26, 1950, India was a Sovereign Democratic Republic. The terms 'Socialist' and 'Secular' were added later by the 42nd Amendment in 1976."
+  },
+  {
+    "id": "q165",
+    "question": "Which Writ is issued by a High Court or the Supreme Court to compel an authority to perform a function that it was not performing?",
+    "options": [
+      "Writ of Certiorari",
+      "Writ of Habeas Corpus",
+      "Writ of Mandamus",
+      "Writ of Quo Warranto"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Writ of Mandamus (meaning 'we command') is issued by a higher court to a lower court or government official to perform a mandatory or purely ministerial duty."
+  },
+  {
+    "id": "q166",
+    "question": "Separation of the judiciary from the executive has been provided in one of the following parts of the Indian Constitution:",
+    "options": [
+      "The Preamble",
+      "The Fundamental Rights",
+      "The Directive Principles of State Policy",
+      "The Seventh Schedule"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 50 of the Directive Principles of State Policy (Part IV) directs the State to take steps to separate the judiciary from the executive."
+  },
+  {
+    "id": "q167",
+    "question": "Which of the following categories of citizens of the prescribed age may be registered as a voter?",
+    "options": [
+      "Bankrupt",
+      "Convicted for certain crimes or corruption",
+      "Non-resident citizens",
+      "Mentally unsound"
+    ],
+    "correct_answer": 2,
+    "explanation": "Non-resident citizens (NRIs) who are of the prescribed age and meet specific criteria can register as voters in India."
+  },
+  {
+    "id": "q168",
+    "question": "Which of these is NOT included as a Fundamental Right in the Indian Constitution?",
+    "options": [
+      "Right to Freedom of Speech",
+      "Right to Equality before the Law",
+      "Right to Constitutional Remedies",
+      "Right to equal wages for equal work"
+    ],
+    "correct_answer": 3,
+    "explanation": "Right to equal wages for equal work is a Directive Principle of State Policy (Article 39), not a Fundamental Right."
+  },
+  {
+    "id": "q169",
+    "question": "Bills of which of the following categories can be initiated only in Lok Sabha?",
+    "options": [
+      "Ordinary Bill",
+      "Private Members Bill",
+      "Money Bill",
+      "Constitution Amendment Bill"
+    ],
+    "correct_answer": 2,
+    "explanation": "As per Article 110 and 117, a Money Bill can only be introduced in the Lok Sabha on the recommendation of the President."
+  },
+  {
+    "id": "q170",
+    "question": "Which of the following can a court issue for enforcement of Fundamental Rights?",
+    "options": [
+      "A decree",
+      "An Ordinance",
+      "A writ",
+      "A notification"
+    ],
+    "correct_answer": 2,
+    "explanation": "Under Article 32 (Supreme Court) and Article 226 (High Courts), the judiciary can issue writs to protect and enforce Fundamental Rights."
+  },
+  {
+    "id": "q171",
+    "question": "Under the Directive Principles of State Policy, up to what age of the children, they are expected to be provided free and compulsory education?",
+    "options": [
+      "14 years",
+      "15 years",
+      "16 years",
+      "18 years"
+    ],
+    "correct_answer": 0,
+    "explanation": "Article 45 originally provided for free and compulsory education for all children until they complete the age of 14 years."
+  },
+  {
+    "id": "q172",
+    "question": "The term ‘secular’ was added in the Preamble to the Indian Constitution by:",
+    "options": [
+      "41st Amendment",
+      "42nd Amendment",
+      "43rd Amendment",
+      "44th Amendment"
+    ],
+    "correct_answer": 1,
+    "explanation": "The 42nd Constitutional Amendment Act of 1976 added the words 'Secular', 'Socialist', and 'Integrity' to the Preamble."
+  },
+  {
+    "id": "q173",
+    "question": "Which of the following is not a Fundamental Right?",
+    "options": [
+      "Right to Equality",
+      "Right to Liberty",
+      "Right against Exploitation",
+      "Right to Property"
+    ],
+    "correct_answer": 3,
+    "explanation": "Right to Property was removed from the Fundamental Rights by the 44th Amendment in 1978 and made a legal right under Article 300A."
+  },
+  {
+    "id": "q174",
+    "question": "Civil equality implies:",
+    "options": [
+      "equality before law",
+      "equality of opportunity",
+      "equal distribution of wealth",
+      "equal right to participate in the affairs of the state"
+    ],
+    "correct_answer": 0,
+    "explanation": "Civil equality refers to the absence of special privileges and equal treatment of all citizens under the law (Equality Before Law)."
+  },
+  {
+    "id": "q175",
+    "question": "Of the following words in the Preamble, which was not inserted through the 42nd Amendment Act, 1976?",
+    "options": [
+      "Socialist",
+      "Secular",
+      "Dignity",
+      "Integrity"
+    ],
+    "correct_answer": 2,
+    "explanation": "The words 'Socialist', 'Secular', and 'Integrity' were added by the 42nd Amendment. 'Dignity' was already present or used in a different context within the Preamble/Constitution."
+  },
+  {
+    "id": "q176",
+    "question": "Indian Parliament can rename or redefine the boundary of a State by:",
+    "options": [
+      "a simple majority",
+      "absolute majority",
+      "2/3rd majority of the members voting",
+      "2/3rd majority of the members voting and an absolute majority of its total membership"
+    ],
+    "correct_answer": 0,
+    "explanation": "Under Article 3 and 4, the Parliament can alter boundaries or names of states with a simple majority."
+  },
+  {
+    "id": "q177",
+    "question": "Which is the source of political power in India?",
+    "options": [
+      "The Constitution",
+      "The Parliament",
+      "The Parliament and the State Legislatives",
+      "We, the People"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Preamble begins with 'We, the People of India,' indicating that the ultimate source of power and sovereignty resides with the citizens."
+  },
+  {
+    "id": "q178",
+    "question": "Which one of the following is a political right?",
+    "options": [
+      "Right to freedom",
+      "Right to contest elections",
+      "Right to equality before law",
+      "Right to life"
+    ],
+    "correct_answer": 1,
+    "explanation": "The right to contest elections and the right to vote are categorized as political rights."
+  },
+  {
+    "id": "q179",
+    "question": "Fundamental Rights in India are guaranteed by it through:",
+    "options": [
+      "The Right to Equality",
+      "Right Against Exploitation",
+      "Right to Constitutional Remedies",
+      "Educational and Cultural Rights"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Right to Constitutional Remedies (Article 32) allows citizens to approach the courts for the enforcement and protection of all other Fundamental Rights."
+  },
+  {
+    "id": "q180",
+    "question": "Which of the following “writs” is sought to produce in the court a person, suspected to be missing/in custody?",
+    "options": [
+      "Mandamus",
+      "Quo Warranto",
+      "Habeas Corpus",
+      "Certiorari"
+    ],
+    "correct_answer": 2,
+    "explanation": "Habeas Corpus (meaning 'to have the body') is issued to protect the personal liberty of an individual against arbitrary detention."
+  },
+  {
+    "id": "q181",
+    "question": "To which of the following Bills the President must accord his sanction without sending it back for fresh consideration?",
+    "options": [
+      "Ordinary Bills",
+      "Money Bills",
+      "Bills passed by both Houses of the Parliament",
+      "Bill seeking amendment to the Constitution"
+    ],
+    "correct_answer": 1,
+    "explanation": "The President cannot return a Money Bill for reconsideration because it is introduced in the Parliament with his prior recommendation."
+  },
+  {
+    "id": "q182",
+    "question": "Where in the Indian Constitution has “economic justice” been provided as one of the objectives?",
+    "options": [
+      "Fundamental Rights",
+      "Directive Principles",
+      "Preamble",
+      "Preamble and the Directive Principles"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Preamble mentions justice (social, economic, and political), and the Directive Principles (Article 38 and 39) aim to ensure economic justice."
+  },
+  {
+    "id": "q183",
+    "question": "Which one of the following is not mentioned in the Preamble to the Constitution of India?",
+    "options": [
+      "Justice",
+      "Fraternity",
+      "Adult franchise",
+      "Equality of position"
+    ],
+    "correct_answer": 2,
+    "explanation": "Adult franchise is provided for under Article 326 but is not specifically mentioned in the Preamble."
+  },
+  {
+    "id": "q184",
+    "question": "A writ of Mandamus can be issued by the Supreme Court to:",
+    "options": [
+      "an official to perform public duty",
+      "the Prime Minister to dissolve the Cabinet",
+      "the company to raise wages",
+      "the Government to pay the salaries to employees"
+    ],
+    "correct_answer": 0,
+    "explanation": "The writ of Mandamus is issued to command a public official or body to perform a legal duty they are bound to fulfill."
+  },
+  {
+    "id": "q185",
+    "question": "How many Fundamental Duties are included in Indian Constitution?",
+    "options": [
+      "Nine",
+      "Ten",
+      "Eleven",
+      "Twelve"
+    ],
+    "correct_answer": 2,
+    "explanation": "There are currently 11 Fundamental Duties. The 11th was added by the 86th Amendment Act, 2002."
+  },
+  {
+    "id": "q186",
+    "question": "The right to vote in elections to a Parliament is a:",
+    "options": [
+      "Fundamental Right",
+      "Constitutional Right",
+      "Legal Right",
+      "Natural Right"
+    ],
+    "correct_answer": 1,
+    "explanation": "The right to vote is a Constitutional Right derived from Article 326."
+  },
+  {
+    "id": "q187",
+    "question": "The Fundamental Rights in our Constitution are inspired by the Constitution of:",
+    "options": [
+      "United States of America",
+      "United Kingdom",
+      "Switzerland",
+      "Canada"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Bill of Rights of the US Constitution was the primary inspiration for Part III of the Indian Constitution."
+  },
+  {
+    "id": "q188",
+    "question": "Under the Constitution, the power to issue a writ of Habeas Corpus is vested in:",
+    "options": [
+      "High Courts alone",
+      "Supreme Court alone",
+      "Both Supreme Court and High Courts",
+      "All Courts down to the District Courts"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Supreme Court (Article 32) and High Courts (Article 226) both have the power to issue writs."
+  },
+  {
+    "id": "q189",
+    "question": "Which of the following is a bulwark of personal freedom?",
+    "options": [
+      "Mandamus",
+      "Habeas corpus",
+      "Quo-Warranto",
+      "Certiorari"
+    ],
+    "correct_answer": 1,
+    "explanation": "Habeas Corpus is considered the most important writ for protecting individual liberty against illegal detention."
+  },
+  {
+    "id": "q190",
+    "question": "Evaluate the following statements: (I) The legal interpretation of equality is chiefly influenced by equality before law and equal protection of law (II) Equality before law means rule of law",
+    "options": [
+      "I is correct but II is incorrect",
+      "II is correct but I is incorrect",
+      "Both are correct",
+      "Both are incorrect"
+    ],
+    "correct_answer": 2,
+    "explanation": "Both statements are correct as Article 14 encompasses both concepts, and Equality Before Law is a subset of the Rule of Law."
+  },
+  {
+    "id": "q191",
+    "question": "By which of the following modes can citizenship be acquired?",
+    "options": [
+      "By Birth, Hereditary, By Registration",
+      "Hereditary only",
+      "By Registration only",
+      "By Request"
+    ],
+    "correct_answer": 0,
+    "explanation": "Under the Citizenship Act, 1955, citizenship can be acquired by birth, descent (hereditary), registration, naturalization, and incorporation of territory."
+  },
+  {
+    "id": "q192",
+    "question": "In which of the following cases, the Supreme Court held that fundamental rights are unamendable?",
+    "options": [
+      "A. K. Gopalan’s case",
+      "Keshvananda Bharti’s case",
+      "M. C. Mehta’s case",
+      "Golak Nath’s case"
+    ],
+    "correct_answer": 3,
+    "explanation": "In the Golak Nath case (1967), the Supreme Court ruled that Parliament could not curtail any of the Fundamental Rights. This was later modified in the Keshavananda Bharati case."
+  },
+  {
+    "id": "q193",
+    "question": "Which of the following expressions does not figure in the Preamble to the Indian Constitution?",
+    "options": [
+      "Sovereign Democratic Republic",
+      "Socialist",
+      "Secular",
+      "Federal"
+    ],
+    "correct_answer": 3,
+    "explanation": "While India has federal features, the word 'Federal' is not used in the Preamble or anywhere in the Constitution (Article 1 uses 'Union of States')."
+  },
+  {
+    "id": "q194",
+    "question": "Right to property was removed from the list of Fundamental Rights during the rule of:",
+    "options": [
+      "Indira Gandhi Government",
+      "Morarji Desai Government",
+      "Narasimha Rao Government",
+      "Vajpayee Government"
+    ],
+    "correct_answer": 1,
+    "explanation": "The 44th Amendment was passed in 1978 during the Janata Party government led by Morarji Desai."
+  },
+  {
+    "id": "q195",
+    "question": "The chapter on Fundamental Duties includes:",
+    "options": [
+      "Duty to cherish and follow the noble ideals which inspired out freedom movement.",
+      "Duty to vote in General Election",
+      "Duty to promote the sense of fraternity among the people",
+      "Duty to stick to the political party on whose ticket one contested election."
+    ],
+    "correct_answer": 0,
+    "explanation": "Article 51A (b) lists 'to cherish and follow the noble ideals which inspired our national struggle for freedom' as a duty."
+  },
+  {
+    "id": "q196",
+    "question": "Which part of the Indian Constitution deals with the Directive Principles of State Policy?",
+    "options": [
+      "Part I",
+      "Part III",
+      "Part IV",
+      "Part V"
+    ],
+    "correct_answer": 2,
+    "explanation": "Part IV (Articles 36-51) contains the Directive Principles of State Policy."
+  },
+  {
+    "id": "q197",
+    "question": "The Preamble of our Constitution reads India as:",
+    "options": [
+      "Sovereign, Democratic, Socialist, Secular Republic",
+      "Socialist, Democratic, Secular Republic",
+      "Democratic, Sovereign, Secular, Socialist Republic",
+      "Sovereign, Socialist, Secular, Democratic Republic"
+    ],
+    "correct_answer": 3,
+    "explanation": "The specific sequence in the Preamble is Sovereign, Socialist, Secular, Democratic Republic."
+  },
+  {
+    "id": "q198",
+    "question": "Who is the guardian of Fundamental Rights enumerated in Indian Constitution?",
+    "options": [
+      "Supreme Court",
+      "Parliament",
+      "Constitution",
+      "President"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Supreme Court is the final interpreter and protector of Fundamental Rights through its writ jurisdiction."
+  },
+  {
+    "id": "q199",
+    "question": "Which part of the Indian Constitution deals with ‘Fundamental Rights’?",
+    "options": [
+      "Part I",
+      "Part II",
+      "Part III",
+      "Part IV"
+    ],
+    "correct_answer": 2,
+    "explanation": "Part III (Articles 12-35) deals with Fundamental Rights."
+  },
+  {
+    "id": "q200",
+    "question": "The Directive Principles of State Policy was adopted from the:",
+    "options": [
+      "British Constitution",
+      "Swiss Constitution",
+      "U.S. Constitution",
+      "Irish Constitution"
+    ],
+    "correct_answer": 3,
+    "explanation": "The concept of DPSP was borrowed from the Irish Constitution (which in turn borrowed it from the Spanish Constitution)."
+  },
+  {
+    "id": "q201",
+    "question": "Who is the guardian of Fundamental Rights?",
+    "options": [
+      "Legislature",
+      "Executive",
+      "Political parties",
+      "Judiciary"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Judiciary, specifically the High Courts and Supreme Court, acts as the guardian of Fundamental Rights."
+  },
+  {
+    "id": "q202",
+    "question": "Which one of the following fundamental rights is available to Indian citizens only?",
+    "options": [
+      "Equality before law",
+      "Protection of life and personal liberty",
+      "Protection from discrimination on grounds of religion, race, caste, sex or place of birth",
+      "Freedom of religion"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 15 (protection against discrimination) and Article 16, 19, 29, 30 are available only to citizens."
+  },
+  {
+    "id": "q203",
+    "question": "Which of the following Articles of the Constitution deals with the Fundamental Duties?",
+    "options": [
+      "Article 39 C",
+      "Article 51 A",
+      "Article 29 B",
+      "None of the above"
+    ],
+    "correct_answer": 1,
+    "explanation": "Fundamental Duties were added by the 42nd Amendment in 1976 under Article 51A."
+  },
+  {
+    "id": "q204",
+    "question": "Freedom of the press is implied in the right to:",
+    "options": [
+      "equal protection of the laws",
+      "freedom of speech",
+      "freedom of association",
+      "work and material security"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Supreme Court has held that freedom of the press is an integral part of the freedom of speech and expression (Article 19(1)(a))."
+  },
+  {
+    "id": "q205",
+    "question": "The main purpose of including the Directive Principles of State Policy in the Indian Constitution is to:",
+    "options": [
+      "establish a welfare State",
+      "establish a secular State",
+      "check the arbitrary action of the Government",
+      "provide best opportunities of development by the Government"
+    ],
+    "correct_answer": 0,
+    "explanation": "DPSPs aim to ensure social and economic democracy and establish India as a Welfare State."
+  },
+  {
+    "id": "q206",
+    "question": "Fundamental Duties were added to the Constitution by:",
+    "options": [
+      "24th Amendment",
+      "39th Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+    ],
+    "correct_answer": 2,
+    "explanation": "The 42nd Amendment Act (1976) introduced Part IV-A and Article 51A based on the Swaran Singh Committee recommendations."
+  },
+  {
+    "id": "q207",
+    "question": "Right to property is now recognised as:",
+    "options": [
+      "a fundamental right",
+      "a legal right",
+      "a natural right",
+      "a political right"
+    ],
+    "correct_answer": 1,
+    "explanation": "After the 44th Amendment, it became a legal/constitutional right under Article 300A."
+  },
+  {
+    "id": "q208",
+    "question": "Which one of the following writs literally means ‘what is your authority’?",
+    "options": [
+      "Habeas Corpus",
+      "Certiorari",
+      "Quo Warranto",
+      "Prohibition"
+    ],
+    "correct_answer": 2,
+    "explanation": "Quo Warranto is issued to enquire into the legality of a person's claim to a public office."
+  },
+  {
+    "id": "q209",
+    "question": "Which case is related to Fundamental Rights?",
+    "options": [
+      "Golakhnath vs. State of Punjab (1967)",
+      "West Bengal vs. Union of India (1963)",
+      "Sharma vs. Krishna (1959)",
+      "State of Bombay vs. Balsara (1951)"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Golakhnath case was a landmark case regarding the power of Parliament to amend Fundamental Rights."
+  },
+  {
+    "id": "q210",
+    "question": "According to Preamble, the ultimate power lies in the hands of:",
+    "options": [
+      "Parliament",
+      "Constitution",
+      "President",
+      "People"
+    ],
+    "correct_answer": 3,
+    "explanation": "The words 'We, the People' signify that popular sovereignty is the basis of the Indian Constitution."
+  },
+  {
+    "id": "q211",
+    "question": "Most important safeguard of liberty is:",
+    "options": [
+      "bold and impartial judiciary",
+      "well-knit party system",
+      "decentralisation of power",
+      "declaration of rights"
+    ],
+    "correct_answer": 0,
+    "explanation": "An independent judiciary is essential to prevent state overreach and protect individual liberty."
+  },
+  {
+    "id": "q212",
+    "question": "In which of the following Articles, citizenship rights of people who migrated from Pakistan to India is mentioned?",
+    "options": [
+      "Article-4",
+      "Article-8",
+      "Article-6",
+      "Article-10"
+    ],
+    "correct_answer": 2,
+    "explanation": "Article 6 deals with the rights of citizenship of certain persons who have migrated to India from Pakistan."
+  },
+  {
+    "id": "q213",
+    "question": "The term ‘Fraternity’ in the Preamble of the Indian Constitution means a sense of:",
+    "options": [
+      "friendliness",
+      "statehood",
+      "love and affection",
+      "brotherhood"
+    ],
+    "correct_answer": 3,
+    "explanation": "Fraternity refers to the spirit of brotherhood and the sense of belonging to one nation."
+  }
+]

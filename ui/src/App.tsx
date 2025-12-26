@@ -1,6 +1,7 @@
-import { useState } from 'react';
-import { Page } from './types';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navigation from './components/Navigation';
+import ScrollToTop from './components/ScrollToTop';
+
 import HomePage from './components/HomePage';
 import QuizPage from './components/QuizPage';
 import ChatPage from './components/ChatPage';
@@ -10,34 +11,24 @@ import FundamentalRights from './components/FundamentalRights';
 import NeedPage from './components/NeedPage';
 
 function App() {
-  const [currentPage, setCurrentPage] = useState<Page>('home');
-
-  const renderPage = () => {
-    switch (currentPage) {
-      case 'home':
-        return <HomePage onNavigate={setCurrentPage} />;
-      case 'quiz':
-        return <QuizPage />;
-      case 'chat':
-        return <ChatPage />;
-      case 'about':
-        return <AboutConstitution />;
-      case 'history':
-        return <HistoryPage />;
-      case 'rights':
-        return <FundamentalRights />;
-      case 'need':
-        return <NeedPage />;
-      default:
-        return <HomePage onNavigate={setCurrentPage} />;
-    }
-  };
-
   return (
-    <div className="min-h-screen">
-      <Navigation currentPage={currentPage} onNavigate={setCurrentPage} />
-      {renderPage()}
-    </div>
+    <Router>
+      <ScrollToTop />
+
+      <div className="min-h-screen">
+        <Navigation />
+
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/quiz" element={<QuizPage />} />
+          <Route path="/chat" element={<ChatPage />} />
+          <Route path="/about" element={<AboutConstitution />} />
+          <Route path="/history" element={<HistoryPage />} />
+          <Route path="/rights" element={<FundamentalRights />} />
+          <Route path="/need" element={<NeedPage />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
